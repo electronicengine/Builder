@@ -1,0 +1,5618 @@
+[
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 0,
+   "Data(dB)": "-34,34"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 15,
+   "Data(dB)": "-33,55"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 30,
+   "Data(dB)": "-28,97"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 45,
+   "Data(dB)": "-27,39"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 60,
+   "Data(dB)": "-26,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 75,
+   "Data(dB)": "-29,42"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 90,
+   "Data(dB)": "-47,25"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 105,
+   "Data(dB)": "-33,19"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 120,
+   "Data(dB)": "-29,99"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 135,
+   "Data(dB)": "-33,61"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 150,
+   "Data(dB)": "-28,93"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 165,
+   "Data(dB)": "-31,37"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 0,
+   "Theta": 180,
+   "Data(dB)": "-31,09"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 0,
+   "Data(dB)": "-36,22"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 15,
+   "Data(dB)": "-34,98"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 30,
+   "Data(dB)": "-35,61"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 45,
+   "Data(dB)": "-28,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 60,
+   "Data(dB)": "-28,94"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 75,
+   "Data(dB)": "-32,75"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 90,
+   "Data(dB)": "-47,58"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 105,
+   "Data(dB)": "-32,8"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 120,
+   "Data(dB)": "-30,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 135,
+   "Data(dB)": "-32,37"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 150,
+   "Data(dB)": "-31,54"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 165,
+   "Data(dB)": "-32,73"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 15,
+   "Theta": 180,
+   "Data(dB)": "-32,08"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 0,
+   "Data(dB)": "-41,27"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 15,
+   "Data(dB)": "-39,25"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 30,
+   "Data(dB)": "-37,2"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 45,
+   "Data(dB)": "-33,45"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 60,
+   "Data(dB)": "-35,18"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 75,
+   "Data(dB)": "-48,37"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 90,
+   "Data(dB)": "-38,29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 105,
+   "Data(dB)": "-35,07"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 120,
+   "Data(dB)": "-31,78"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 135,
+   "Data(dB)": "-44,19"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 150,
+   "Data(dB)": "-31,4"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 165,
+   "Data(dB)": "-31,06"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 30,
+   "Theta": 180,
+   "Data(dB)": "-33,87"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 0,
+   "Data(dB)": "-54,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 15,
+   "Data(dB)": "-43,52"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 30,
+   "Data(dB)": "-38,43"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 45,
+   "Data(dB)": "-39,46"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 60,
+   "Data(dB)": "-42,64"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 75,
+   "Data(dB)": "-34,12"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 90,
+   "Data(dB)": "-32,91"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 105,
+   "Data(dB)": "-32,83"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 120,
+   "Data(dB)": "-33,83"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 135,
+   "Data(dB)": "-37,4"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 150,
+   "Data(dB)": "-31,2"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 165,
+   "Data(dB)": "-33,25"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 45,
+   "Theta": 180,
+   "Data(dB)": "-36,66"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 0,
+   "Data(dB)": "-46,7"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 15,
+   "Data(dB)": "-45,63"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 30,
+   "Data(dB)": "-33,09"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 45,
+   "Data(dB)": "-36,02"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 60,
+   "Data(dB)": "-34,6"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 75,
+   "Data(dB)": "-32,64"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 90,
+   "Data(dB)": "-33,25"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 105,
+   "Data(dB)": "-35,5"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 120,
+   "Data(dB)": "-37,64"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 135,
+   "Data(dB)": "-32,7"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 150,
+   "Data(dB)": "-33,34"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 165,
+   "Data(dB)": "-34,84"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 60,
+   "Theta": 180,
+   "Data(dB)": "-42,45"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 0,
+   "Data(dB)": "-38,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 15,
+   "Data(dB)": "-38,4"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 30,
+   "Data(dB)": "-31,37"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 45,
+   "Data(dB)": "-33,81"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 60,
+   "Data(dB)": "-39,24"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 75,
+   "Data(dB)": "-37,29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 90,
+   "Data(dB)": "-41,39"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 105,
+   "Data(dB)": "-33,21"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 120,
+   "Data(dB)": "-32,28"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 135,
+   "Data(dB)": "-36,08"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 150,
+   "Data(dB)": "-31,34"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 165,
+   "Data(dB)": "-35,8"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 75,
+   "Theta": 180,
+   "Data(dB)": "-65,31"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 0,
+   "Data(dB)": "-34,93"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 15,
+   "Data(dB)": "-32,7"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 30,
+   "Data(dB)": "-29,68"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 45,
+   "Data(dB)": "-38,37"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 60,
+   "Data(dB)": "-34,37"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 75,
+   "Data(dB)": "-34,18"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 90,
+   "Data(dB)": "-28,62"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 105,
+   "Data(dB)": "-29,47"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 120,
+   "Data(dB)": "-41,25"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 135,
+   "Data(dB)": "-39,44"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 150,
+   "Data(dB)": "-29,51"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 165,
+   "Data(dB)": "-34,28"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 90,
+   "Theta": 180,
+   "Data(dB)": "-43,05"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 0,
+   "Data(dB)": "-33,38"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 15,
+   "Data(dB)": "-31,46"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 30,
+   "Data(dB)": "-28,03"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 45,
+   "Data(dB)": "-31,72"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 60,
+   "Data(dB)": "-27,61"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 75,
+   "Data(dB)": "-30,71"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 90,
+   "Data(dB)": "-35,59"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 105,
+   "Data(dB)": "-38,94"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 120,
+   "Data(dB)": "-34,7"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 135,
+   "Data(dB)": "-36,04"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 150,
+   "Data(dB)": "-36,61"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 165,
+   "Data(dB)": "-37,35"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 105,
+   "Theta": 180,
+   "Data(dB)": "-37,46"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 0,
+   "Data(dB)": "-32,98"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 15,
+   "Data(dB)": "-31,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 30,
+   "Data(dB)": "-27,53"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 45,
+   "Data(dB)": "-31,82"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 60,
+   "Data(dB)": "-28,31"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 75,
+   "Data(dB)": "-30,31"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 90,
+   "Data(dB)": "-35,79"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 105,
+   "Data(dB)": "-39,14"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 120,
+   "Data(dB)": "-35,1"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 135,
+   "Data(dB)": "-36,84"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 150,
+   "Data(dB)": "-37,41"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 165,
+   "Data(dB)": "-36,65"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 120,
+   "Theta": 180,
+   "Data(dB)": "-37,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 0,
+   "Data(dB)": "-31,65"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 15,
+   "Data(dB)": "-27,23"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 30,
+   "Data(dB)": "-25,15"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 45,
+   "Data(dB)": "-28,49"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 60,
+   "Data(dB)": "-24,94"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 75,
+   "Data(dB)": "-26,23"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 90,
+   "Data(dB)": "-26,84"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 105,
+   "Data(dB)": "-36,8"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 120,
+   "Data(dB)": "-34,65"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 135,
+   "Data(dB)": "-35,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 150,
+   "Data(dB)": "-27,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 165,
+   "Data(dB)": "-34,73"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 135,
+   "Theta": 180,
+   "Data(dB)": "-32,18"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 0,
+   "Data(dB)": "-31,28"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 15,
+   "Data(dB)": "-26,9"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 30,
+   "Data(dB)": "-24,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 45,
+   "Data(dB)": "-25,26"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 60,
+   "Data(dB)": "-27,81"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 75,
+   "Data(dB)": "-30,99"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 90,
+   "Data(dB)": "-32,57"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 105,
+   "Data(dB)": "-35,4"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 120,
+   "Data(dB)": "-40,18"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 135,
+   "Data(dB)": "-35,32"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 150,
+   "Data(dB)": "-26,47"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 165,
+   "Data(dB)": "-33,81"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 150,
+   "Theta": 180,
+   "Data(dB)": "-31,28"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 0,
+   "Data(dB)": "-33,03"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 15,
+   "Data(dB)": "-26,43"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 30,
+   "Data(dB)": "-26,39"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 45,
+   "Data(dB)": "-24,2"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 60,
+   "Data(dB)": "-29,71"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 75,
+   "Data(dB)": "-29,72"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 90,
+   "Data(dB)": "-24,72"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 105,
+   "Data(dB)": "-27,58"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 120,
+   "Data(dB)": "-34,54"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 135,
+   "Data(dB)": "-37,23"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 150,
+   "Data(dB)": "-29,71"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 165,
+   "Data(dB)": "-28,41"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 165,
+   "Theta": 180,
+   "Data(dB)": "-31,13"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 0,
+   "Data(dB)": "-34,14"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 15,
+   "Data(dB)": "-27,8"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 30,
+   "Data(dB)": "-26,12"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 45,
+   "Data(dB)": "-30,28"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 60,
+   "Data(dB)": "-30,91"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 75,
+   "Data(dB)": "-24,89"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 90,
+   "Data(dB)": "-23,82"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 105,
+   "Data(dB)": "-28,4"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 120,
+   "Data(dB)": "-30,4"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 135,
+   "Data(dB)": "-36,86"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 150,
+   "Data(dB)": "-31,54"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 165,
+   "Data(dB)": "-27,45"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 180,
+   "Theta": 180,
+   "Data(dB)": "-31,29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 0,
+   "Data(dB)": "-36,12"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 15,
+   "Data(dB)": "-28,8"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 30,
+   "Data(dB)": "-30,24"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 45,
+   "Data(dB)": "-34,84"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 60,
+   "Data(dB)": "-31,35"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 75,
+   "Data(dB)": "-24,86"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 90,
+   "Data(dB)": "-26,94"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 105,
+   "Data(dB)": "-27,35"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 120,
+   "Data(dB)": "-31,66"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 135,
+   "Data(dB)": "-30,69"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 150,
+   "Data(dB)": "-32,33"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 165,
+   "Data(dB)": "-27,79"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 195,
+   "Theta": 180,
+   "Data(dB)": "-31,68"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 0,
+   "Data(dB)": "-40,97"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 15,
+   "Data(dB)": "-34,83"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 30,
+   "Data(dB)": "-34,14"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 45,
+   "Data(dB)": "-36,97"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 60,
+   "Data(dB)": "-33,9"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 75,
+   "Data(dB)": "-28,44"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 90,
+   "Data(dB)": "-29,26"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 105,
+   "Data(dB)": "-27,79"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 120,
+   "Data(dB)": "-34,75"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 135,
+   "Data(dB)": "-29,34"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 150,
+   "Data(dB)": "-29,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 165,
+   "Data(dB)": "-27,6"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 210,
+   "Theta": 180,
+   "Data(dB)": "-33,57"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 0,
+   "Data(dB)": "-54,66"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 15,
+   "Data(dB)": "-34,76"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 30,
+   "Data(dB)": "-44,54"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 45,
+   "Data(dB)": "-39,47"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 60,
+   "Data(dB)": "-36,6"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 75,
+   "Data(dB)": "-34,75"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 90,
+   "Data(dB)": "-34,61"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 105,
+   "Data(dB)": "-31,31"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 120,
+   "Data(dB)": "-42,63"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 135,
+   "Data(dB)": "-29,07"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 150,
+   "Data(dB)": "-29,7"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 165,
+   "Data(dB)": "-28,78"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 225,
+   "Theta": 180,
+   "Data(dB)": "-36,16"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 0,
+   "Data(dB)": "-46,1"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 15,
+   "Data(dB)": "-35,72"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 30,
+   "Data(dB)": "-40,42"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 45,
+   "Data(dB)": "-37,72"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 60,
+   "Data(dB)": "-36,74"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 75,
+   "Data(dB)": "-34,65"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 90,
+   "Data(dB)": "-44,23"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 105,
+   "Data(dB)": "-38,2"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 120,
+   "Data(dB)": "-44,05"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 135,
+   "Data(dB)": "-32,38"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 150,
+   "Data(dB)": "-28,62"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 165,
+   "Data(dB)": "-32,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 240,
+   "Theta": 180,
+   "Data(dB)": "-42,25"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 0,
+   "Data(dB)": "-39,26"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 15,
+   "Data(dB)": "-36,21"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 30,
+   "Data(dB)": "-39,12"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 45,
+   "Data(dB)": "-34,15"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 60,
+   "Data(dB)": "-37,91"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 75,
+   "Data(dB)": "-39,96"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 90,
+   "Data(dB)": "-44,29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 105,
+   "Data(dB)": "-35,59"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 120,
+   "Data(dB)": "-42"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 135,
+   "Data(dB)": "-42,41"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 150,
+   "Data(dB)": "-36,29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 165,
+   "Data(dB)": "-39,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 255,
+   "Theta": 180,
+   "Data(dB)": "-64,51"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 0,
+   "Data(dB)": "-35,83"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 15,
+   "Data(dB)": "-33,04"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 30,
+   "Data(dB)": "-38,25"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 45,
+   "Data(dB)": "-36,59"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 60,
+   "Data(dB)": "-36,31"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 75,
+   "Data(dB)": "-40,17"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 90,
+   "Data(dB)": "-40,47"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 105,
+   "Data(dB)": "-43,09"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 120,
+   "Data(dB)": "-43,7"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 135,
+   "Data(dB)": "-41,31"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 150,
+   "Data(dB)": "-44,06"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 165,
+   "Data(dB)": "-38,75"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 270,
+   "Theta": 180,
+   "Data(dB)": "-42,85"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 0,
+   "Data(dB)": "-33,58"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 15,
+   "Data(dB)": "-34,35"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 30,
+   "Data(dB)": "-38,56"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 45,
+   "Data(dB)": "-34,44"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 60,
+   "Data(dB)": "-39,88"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 75,
+   "Data(dB)": "-46,88"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 90,
+   "Data(dB)": "-36,38"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 105,
+   "Data(dB)": "-35,3"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 120,
+   "Data(dB)": "-32,12"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 135,
+   "Data(dB)": "-36,7"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 150,
+   "Data(dB)": "-40,34"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 165,
+   "Data(dB)": "-42"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 285,
+   "Theta": 180,
+   "Data(dB)": "-37,06"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 0,
+   "Data(dB)": "-32,22"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 15,
+   "Data(dB)": "-33,35"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 30,
+   "Data(dB)": "-32,46"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 45,
+   "Data(dB)": "-36,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 60,
+   "Data(dB)": "-36,05"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 75,
+   "Data(dB)": "-34,36"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 90,
+   "Data(dB)": "-37,84"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 105,
+   "Data(dB)": "-36,53"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 120,
+   "Data(dB)": "-29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 135,
+   "Data(dB)": "-31,31"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 150,
+   "Data(dB)": "-30,69"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 165,
+   "Data(dB)": "-36,96"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 300,
+   "Theta": 180,
+   "Data(dB)": "-34,52"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 0,
+   "Data(dB)": "-32,15"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 15,
+   "Data(dB)": "-34,85"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 30,
+   "Data(dB)": "-32,69"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 45,
+   "Data(dB)": "-30,88"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 60,
+   "Data(dB)": "-28,58"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 75,
+   "Data(dB)": "-32,76"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 90,
+   "Data(dB)": "-32,05"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 105,
+   "Data(dB)": "-32,65"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 120,
+   "Data(dB)": "-31,75"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 135,
+   "Data(dB)": "-27,59"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 150,
+   "Data(dB)": "-31,07"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 165,
+   "Data(dB)": "-34,51"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 315,
+   "Theta": 180,
+   "Data(dB)": "-31,88"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 0,
+   "Data(dB)": "-31,78"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 15,
+   "Data(dB)": "-36,29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 30,
+   "Data(dB)": "-29,68"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 45,
+   "Data(dB)": "-26,83"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 60,
+   "Data(dB)": "-25,58"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 75,
+   "Data(dB)": "-27,02"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 90,
+   "Data(dB)": "-31,29"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 105,
+   "Data(dB)": "-38,97"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 120,
+   "Data(dB)": "-33,3"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 135,
+   "Data(dB)": "-30,66"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 150,
+   "Data(dB)": "-27,01"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 165,
+   "Data(dB)": "-33,33"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 330,
+   "Theta": 180,
+   "Data(dB)": "-31,68"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 0,
+   "Data(dB)": "-32,23"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 15,
+   "Data(dB)": "-39,62"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 30,
+   "Data(dB)": "-28,09"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 45,
+   "Data(dB)": "-25,41"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 60,
+   "Data(dB)": "-27,02"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 75,
+   "Data(dB)": "-27,41"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 90,
+   "Data(dB)": "-31,47"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 105,
+   "Data(dB)": "-34,78"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 120,
+   "Data(dB)": "-36,47"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 135,
+   "Data(dB)": "-33,76"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 150,
+   "Data(dB)": "-29,26"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 165,
+   "Data(dB)": "-33,67"
+ },
+ {
+   "Frequency(MHz)": 5180,
+   "Phi": 345,
+   "Theta": 180,
+   "Data(dB)": "-30,93"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 0,
+   "Data(dB)": "-33,8"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 15,
+   "Data(dB)": "-34,62"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 30,
+   "Data(dB)": "-29,71"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 45,
+   "Data(dB)": "-31,34"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 60,
+   "Data(dB)": "-26,94"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 75,
+   "Data(dB)": "-31,26"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 90,
+   "Data(dB)": "-45,51"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 105,
+   "Data(dB)": "-34,01"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 120,
+   "Data(dB)": "-31,21"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 135,
+   "Data(dB)": "-30,73"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 150,
+   "Data(dB)": "-29,11"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 165,
+   "Data(dB)": "-30,71"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 0,
+   "Theta": 180,
+   "Data(dB)": "-31,36"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 0,
+   "Data(dB)": "-36,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 15,
+   "Data(dB)": "-35,93"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 30,
+   "Data(dB)": "-32,62"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 45,
+   "Data(dB)": "-29,95"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 60,
+   "Data(dB)": "-30,28"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 75,
+   "Data(dB)": "-33,07"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 90,
+   "Data(dB)": "-40,09"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 105,
+   "Data(dB)": "-31,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 120,
+   "Data(dB)": "-30,63"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 135,
+   "Data(dB)": "-32,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 150,
+   "Data(dB)": "-30,48"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 165,
+   "Data(dB)": "-33,75"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 15,
+   "Theta": 180,
+   "Data(dB)": "-32"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 0,
+   "Data(dB)": "-38,42"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 15,
+   "Data(dB)": "-37,27"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 30,
+   "Data(dB)": "-36,03"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 45,
+   "Data(dB)": "-31,8"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 60,
+   "Data(dB)": "-34,19"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 75,
+   "Data(dB)": "-47,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 90,
+   "Data(dB)": "-35,74"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 105,
+   "Data(dB)": "-32,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 120,
+   "Data(dB)": "-31,33"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 135,
+   "Data(dB)": "-38,92"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 150,
+   "Data(dB)": "-30,06"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 165,
+   "Data(dB)": "-31,73"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 30,
+   "Theta": 180,
+   "Data(dB)": "-33,93"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 0,
+   "Data(dB)": "-43,89"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 15,
+   "Data(dB)": "-53,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 30,
+   "Data(dB)": "-40,28"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 45,
+   "Data(dB)": "-46,43"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 60,
+   "Data(dB)": "-39,96"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 75,
+   "Data(dB)": "-34,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 90,
+   "Data(dB)": "-35,17"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 105,
+   "Data(dB)": "-33,66"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 120,
+   "Data(dB)": "-32,79"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 135,
+   "Data(dB)": "-33,64"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 150,
+   "Data(dB)": "-30,68"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 165,
+   "Data(dB)": "-32,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 45,
+   "Theta": 180,
+   "Data(dB)": "-38,22"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 0,
+   "Data(dB)": "-69,31"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 15,
+   "Data(dB)": "-43,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 30,
+   "Data(dB)": "-33,45"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 45,
+   "Data(dB)": "-34,93"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 60,
+   "Data(dB)": "-34,17"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 75,
+   "Data(dB)": "-33,26"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 90,
+   "Data(dB)": "-33,83"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 105,
+   "Data(dB)": "-35,48"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 120,
+   "Data(dB)": "-37,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 135,
+   "Data(dB)": "-32"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 150,
+   "Data(dB)": "-32,29"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 165,
+   "Data(dB)": "-32,2"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 60,
+   "Theta": 180,
+   "Data(dB)": "-44,83"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 0,
+   "Data(dB)": "-45,26"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 15,
+   "Data(dB)": "-38,89"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 30,
+   "Data(dB)": "-33,01"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 45,
+   "Data(dB)": "-38,61"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 60,
+   "Data(dB)": "-36,43"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 75,
+   "Data(dB)": "-36,22"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 90,
+   "Data(dB)": "-39,4"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 105,
+   "Data(dB)": "-34,07"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 120,
+   "Data(dB)": "-32,78"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 135,
+   "Data(dB)": "-34,62"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 150,
+   "Data(dB)": "-31,4"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 165,
+   "Data(dB)": "-37,25"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 75,
+   "Theta": 180,
+   "Data(dB)": "-54,08"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 0,
+   "Data(dB)": "-38,67"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 15,
+   "Data(dB)": "-32,53"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 30,
+   "Data(dB)": "-29,35"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 45,
+   "Data(dB)": "-37,9"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 60,
+   "Data(dB)": "-34,05"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 75,
+   "Data(dB)": "-36,55"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 90,
+   "Data(dB)": "-28,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 105,
+   "Data(dB)": "-29,18"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 120,
+   "Data(dB)": "-41,53"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 135,
+   "Data(dB)": "-42,88"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 150,
+   "Data(dB)": "-31,42"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 165,
+   "Data(dB)": "-34,68"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 90,
+   "Theta": 180,
+   "Data(dB)": "-39,94"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 0,
+   "Data(dB)": "-36,16"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 15,
+   "Data(dB)": "-31,46"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 30,
+   "Data(dB)": "-27,18"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 45,
+   "Data(dB)": "-32,95"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 60,
+   "Data(dB)": "-27,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 75,
+   "Data(dB)": "-29,45"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 90,
+   "Data(dB)": "-38,22"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 105,
+   "Data(dB)": "-39,04"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 120,
+   "Data(dB)": "-36,22"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 135,
+   "Data(dB)": "-35,5"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 150,
+   "Data(dB)": "-40,47"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 165,
+   "Data(dB)": "-36,24"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 105,
+   "Theta": 180,
+   "Data(dB)": "-35,83"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 0,
+   "Data(dB)": "-34,55"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 15,
+   "Data(dB)": "-27,47"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 30,
+   "Data(dB)": "-24,54"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 45,
+   "Data(dB)": "-29,31"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 60,
+   "Data(dB)": "-27,25"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 75,
+   "Data(dB)": "-31,68"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 90,
+   "Data(dB)": "-27,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 105,
+   "Data(dB)": "-28,97"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 120,
+   "Data(dB)": "-33,29"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 135,
+   "Data(dB)": "-41,03"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 150,
+   "Data(dB)": "-30,78"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 165,
+   "Data(dB)": "-40,3"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 120,
+   "Theta": 180,
+   "Data(dB)": "-32,62"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 0,
+   "Data(dB)": "-32,66"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 15,
+   "Data(dB)": "-28,48"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 30,
+   "Data(dB)": "-23,89"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 45,
+   "Data(dB)": "-27,18"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 60,
+   "Data(dB)": "-25,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 75,
+   "Data(dB)": "-25,85"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 90,
+   "Data(dB)": "-27,43"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 105,
+   "Data(dB)": "-30,61"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 120,
+   "Data(dB)": "-36,95"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 135,
+   "Data(dB)": "-37,97"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 150,
+   "Data(dB)": "-26,81"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 165,
+   "Data(dB)": "-36,59"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 135,
+   "Theta": 180,
+   "Data(dB)": "-32"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 0,
+   "Data(dB)": "-33,02"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 15,
+   "Data(dB)": "-26,15"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 30,
+   "Data(dB)": "-25,53"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 45,
+   "Data(dB)": "-26,16"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 60,
+   "Data(dB)": "-26,3"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 75,
+   "Data(dB)": "-28,82"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 90,
+   "Data(dB)": "-34"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 105,
+   "Data(dB)": "-34,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 120,
+   "Data(dB)": "-36,73"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 135,
+   "Data(dB)": "-35,5"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 150,
+   "Data(dB)": "-27,12"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 165,
+   "Data(dB)": "-30,93"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 150,
+   "Theta": 180,
+   "Data(dB)": "-30,73"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 0,
+   "Data(dB)": "-33,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 15,
+   "Data(dB)": "-26,77"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 30,
+   "Data(dB)": "-25,55"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 45,
+   "Data(dB)": "-25,83"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 60,
+   "Data(dB)": "-30,17"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 75,
+   "Data(dB)": "-28,59"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 90,
+   "Data(dB)": "-25,96"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 105,
+   "Data(dB)": "-28,46"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 120,
+   "Data(dB)": "-32,59"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 135,
+   "Data(dB)": "-37,9"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 150,
+   "Data(dB)": "-28,71"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 165,
+   "Data(dB)": "-27,64"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 165,
+   "Theta": 180,
+   "Data(dB)": "-30,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 0,
+   "Data(dB)": "-34,2"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 15,
+   "Data(dB)": "-27,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 30,
+   "Data(dB)": "-26,27"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 45,
+   "Data(dB)": "-27,24"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 60,
+   "Data(dB)": "-30,92"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 75,
+   "Data(dB)": "-25,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 90,
+   "Data(dB)": "-24,58"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 105,
+   "Data(dB)": "-28,13"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 120,
+   "Data(dB)": "-31,74"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 135,
+   "Data(dB)": "-32,2"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 150,
+   "Data(dB)": "-30,88"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 165,
+   "Data(dB)": "-28,38"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 180,
+   "Theta": 180,
+   "Data(dB)": "-30,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 0,
+   "Data(dB)": "-35,5"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 15,
+   "Data(dB)": "-29,25"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 30,
+   "Data(dB)": "-29"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 45,
+   "Data(dB)": "-31,97"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 60,
+   "Data(dB)": "-32,57"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 75,
+   "Data(dB)": "-24,79"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 90,
+   "Data(dB)": "-26,54"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 105,
+   "Data(dB)": "-26,7"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 120,
+   "Data(dB)": "-30,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 135,
+   "Data(dB)": "-30,64"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 150,
+   "Data(dB)": "-29,85"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 165,
+   "Data(dB)": "-27,18"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 195,
+   "Theta": 180,
+   "Data(dB)": "-31,7"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 0,
+   "Data(dB)": "-38,12"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 15,
+   "Data(dB)": "-36,69"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 30,
+   "Data(dB)": "-33,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 45,
+   "Data(dB)": "-36,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 60,
+   "Data(dB)": "-32,09"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 75,
+   "Data(dB)": "-28,37"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 90,
+   "Data(dB)": "-28,26"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 105,
+   "Data(dB)": "-29,2"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 120,
+   "Data(dB)": "-32,37"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 135,
+   "Data(dB)": "-30,66"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 150,
+   "Data(dB)": "-28,5"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 165,
+   "Data(dB)": "-27,34"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 210,
+   "Theta": 180,
+   "Data(dB)": "-34,63"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 0,
+   "Data(dB)": "-43,99"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 15,
+   "Data(dB)": "-37,64"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 30,
+   "Data(dB)": "-43,42"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 45,
+   "Data(dB)": "-38,25"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 60,
+   "Data(dB)": "-40,8"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 75,
+   "Data(dB)": "-31,51"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 90,
+   "Data(dB)": "-33,5"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 105,
+   "Data(dB)": "-32,21"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 120,
+   "Data(dB)": "-38,61"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 135,
+   "Data(dB)": "-31,74"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 150,
+   "Data(dB)": "-27,34"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 165,
+   "Data(dB)": "-27,51"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 225,
+   "Theta": 180,
+   "Data(dB)": "-38,12"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 0,
+   "Data(dB)": "-68,71"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 15,
+   "Data(dB)": "-35,87"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 30,
+   "Data(dB)": "-44,55"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 45,
+   "Data(dB)": "-34,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 60,
+   "Data(dB)": "-36,98"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 75,
+   "Data(dB)": "-35,9"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 90,
+   "Data(dB)": "-40,97"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 105,
+   "Data(dB)": "-32,08"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 120,
+   "Data(dB)": "-50,63"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 135,
+   "Data(dB)": "-33,58"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 150,
+   "Data(dB)": "-31,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 165,
+   "Data(dB)": "-36,06"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 240,
+   "Theta": 180,
+   "Data(dB)": "-45,23"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 0,
+   "Data(dB)": "-45,26"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 15,
+   "Data(dB)": "-33,98"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 30,
+   "Data(dB)": "-35,66"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 45,
+   "Data(dB)": "-33,47"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 60,
+   "Data(dB)": "-35,45"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 75,
+   "Data(dB)": "-41,83"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 90,
+   "Data(dB)": "-43,19"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 105,
+   "Data(dB)": "-33,41"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 120,
+   "Data(dB)": "-40,34"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 135,
+   "Data(dB)": "-43,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 150,
+   "Data(dB)": "-36,15"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 165,
+   "Data(dB)": "-39,41"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 255,
+   "Theta": 180,
+   "Data(dB)": "-53,68"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 0,
+   "Data(dB)": "-38,77"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 15,
+   "Data(dB)": "-33,18"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 30,
+   "Data(dB)": "-38,02"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 45,
+   "Data(dB)": "-36,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 60,
+   "Data(dB)": "-36,46"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 75,
+   "Data(dB)": "-41,94"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 90,
+   "Data(dB)": "-40,95"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 105,
+   "Data(dB)": "-43,3"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 120,
+   "Data(dB)": "-42,85"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 135,
+   "Data(dB)": "-46,2"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 150,
+   "Data(dB)": "-48,89"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 165,
+   "Data(dB)": "-42,39"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 270,
+   "Theta": 180,
+   "Data(dB)": "-40,74"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 0,
+   "Data(dB)": "-36,26"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 15,
+   "Data(dB)": "-35,64"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 30,
+   "Data(dB)": "-36,54"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 45,
+   "Data(dB)": "-36,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 60,
+   "Data(dB)": "-37,92"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 75,
+   "Data(dB)": "-43,16"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 90,
+   "Data(dB)": "-35,75"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 105,
+   "Data(dB)": "-36,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 120,
+   "Data(dB)": "-34,88"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 135,
+   "Data(dB)": "-33,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 150,
+   "Data(dB)": "-35,73"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 165,
+   "Data(dB)": "-42,43"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 285,
+   "Theta": 180,
+   "Data(dB)": "-35,83"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 0,
+   "Data(dB)": "-34,35"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 15,
+   "Data(dB)": "-39,18"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 30,
+   "Data(dB)": "-32,64"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 45,
+   "Data(dB)": "-34,23"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 60,
+   "Data(dB)": "-31,53"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 75,
+   "Data(dB)": "-36,88"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 90,
+   "Data(dB)": "-34,68"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 105,
+   "Data(dB)": "-34,91"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 120,
+   "Data(dB)": "-30,31"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 135,
+   "Data(dB)": "-32,1"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 150,
+   "Data(dB)": "-30,5"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 165,
+   "Data(dB)": "-42,01"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 300,
+   "Theta": 180,
+   "Data(dB)": "-32,92"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 0,
+   "Data(dB)": "-32,56"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 15,
+   "Data(dB)": "-38,18"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 30,
+   "Data(dB)": "-32,04"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 45,
+   "Data(dB)": "-30,97"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 60,
+   "Data(dB)": "-30,35"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 75,
+   "Data(dB)": "-29,27"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 90,
+   "Data(dB)": "-31,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 105,
+   "Data(dB)": "-32,41"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 120,
+   "Data(dB)": "-30,13"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 135,
+   "Data(dB)": "-27,8"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 150,
+   "Data(dB)": "-29,17"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 165,
+   "Data(dB)": "-33,01"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 315,
+   "Theta": 180,
+   "Data(dB)": "-31,2"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 0,
+   "Data(dB)": "-32,82"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 15,
+   "Data(dB)": "-33,64"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 30,
+   "Data(dB)": "-29,62"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 45,
+   "Data(dB)": "-29,04"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 60,
+   "Data(dB)": "-26,99"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 75,
+   "Data(dB)": "-27,28"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 90,
+   "Data(dB)": "-28,44"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 105,
+   "Data(dB)": "-38,59"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 120,
+   "Data(dB)": "-32,38"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 135,
+   "Data(dB)": "-30,23"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 150,
+   "Data(dB)": "-26,45"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 165,
+   "Data(dB)": "-33,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 330,
+   "Theta": 180,
+   "Data(dB)": "-30,53"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 0,
+   "Data(dB)": "-32,49"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 15,
+   "Data(dB)": "-37,74"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 30,
+   "Data(dB)": "-28,57"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 45,
+   "Data(dB)": "-26,01"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 60,
+   "Data(dB)": "-26,16"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 75,
+   "Data(dB)": "-26,44"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 90,
+   "Data(dB)": "-32,52"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 105,
+   "Data(dB)": "-35,62"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 120,
+   "Data(dB)": "-32,11"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 135,
+   "Data(dB)": "-30,16"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 150,
+   "Data(dB)": "-28,25"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 165,
+   "Data(dB)": "-33,01"
+ },
+ {
+   "Frequency(MHz)": 5500,
+   "Phi": 345,
+   "Theta": 180,
+   "Data(dB)": "-30,79"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 0,
+   "Data(dB)": "-34,64"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 15,
+   "Data(dB)": "-30,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 30,
+   "Data(dB)": "-31,12"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 45,
+   "Data(dB)": "-28,58"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 60,
+   "Data(dB)": "-26,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 75,
+   "Data(dB)": "-31,2"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 90,
+   "Data(dB)": "-47,29"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 105,
+   "Data(dB)": "-33,5"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 120,
+   "Data(dB)": "-30,45"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 135,
+   "Data(dB)": "-31,53"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 150,
+   "Data(dB)": "-29,57"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 165,
+   "Data(dB)": "-30,11"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 0,
+   "Theta": 180,
+   "Data(dB)": "-31,98"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 0,
+   "Data(dB)": "-38,17"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 15,
+   "Data(dB)": "-37,38"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 30,
+   "Data(dB)": "-33,02"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 45,
+   "Data(dB)": "-30,75"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 60,
+   "Data(dB)": "-29,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 75,
+   "Data(dB)": "-35,74"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 90,
+   "Data(dB)": "-42,44"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 105,
+   "Data(dB)": "-32,06"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 120,
+   "Data(dB)": "-28,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 135,
+   "Data(dB)": "-30,24"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 150,
+   "Data(dB)": "-29,34"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 165,
+   "Data(dB)": "-30,5"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 15,
+   "Theta": 180,
+   "Data(dB)": "-33,78"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 0,
+   "Data(dB)": "-44,24"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 15,
+   "Data(dB)": "-38,28"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 30,
+   "Data(dB)": "-36,25"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 45,
+   "Data(dB)": "-35,02"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 60,
+   "Data(dB)": "-33,34"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 75,
+   "Data(dB)": "-46,14"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 90,
+   "Data(dB)": "-34,96"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 105,
+   "Data(dB)": "-34,31"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 120,
+   "Data(dB)": "-29,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 135,
+   "Data(dB)": "-45,44"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 150,
+   "Data(dB)": "-33,02"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 165,
+   "Data(dB)": "-32,93"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 30,
+   "Theta": 180,
+   "Data(dB)": "-36,23"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 0,
+   "Data(dB)": "-71,91"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 15,
+   "Data(dB)": "-57,33"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 30,
+   "Data(dB)": "-34,79"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 45,
+   "Data(dB)": "-44,3"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 60,
+   "Data(dB)": "-39,02"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 75,
+   "Data(dB)": "-41,28"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 90,
+   "Data(dB)": "-34,23"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 105,
+   "Data(dB)": "-29,33"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 120,
+   "Data(dB)": "-35,14"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 135,
+   "Data(dB)": "-35,52"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 150,
+   "Data(dB)": "-32,78"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 165,
+   "Data(dB)": "-30,97"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 45,
+   "Theta": 180,
+   "Data(dB)": "-40,86"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 0,
+   "Data(dB)": "-44,15"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 15,
+   "Data(dB)": "-55,23"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 30,
+   "Data(dB)": "-34,09"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 45,
+   "Data(dB)": "-40,18"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 60,
+   "Data(dB)": "-34,2"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 75,
+   "Data(dB)": "-32,77"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 90,
+   "Data(dB)": "-31,74"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 105,
+   "Data(dB)": "-33,99"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 120,
+   "Data(dB)": "-36,43"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 135,
+   "Data(dB)": "-29,64"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 150,
+   "Data(dB)": "-33,72"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 165,
+   "Data(dB)": "-34,57"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 60,
+   "Theta": 180,
+   "Data(dB)": "-57,74"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 0,
+   "Data(dB)": "-37,58"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 15,
+   "Data(dB)": "-38,99"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 30,
+   "Data(dB)": "-32,3"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 45,
+   "Data(dB)": "-35,9"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 60,
+   "Data(dB)": "-33,62"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 75,
+   "Data(dB)": "-32,85"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 90,
+   "Data(dB)": "-42,57"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 105,
+   "Data(dB)": "-33,82"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 120,
+   "Data(dB)": "-32,66"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 135,
+   "Data(dB)": "-33,17"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 150,
+   "Data(dB)": "-30,86"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 165,
+   "Data(dB)": "-32,68"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 75,
+   "Theta": 180,
+   "Data(dB)": "-43,85"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 0,
+   "Data(dB)": "-34,89"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 15,
+   "Data(dB)": "-34,56"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 30,
+   "Data(dB)": "-31,93"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 45,
+   "Data(dB)": "-39,69"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 60,
+   "Data(dB)": "-38,3"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 75,
+   "Data(dB)": "-32,94"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 90,
+   "Data(dB)": "-28,43"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 105,
+   "Data(dB)": "-31,14"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 120,
+   "Data(dB)": "-45,79"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 135,
+   "Data(dB)": "-43,45"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 150,
+   "Data(dB)": "-29,12"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 165,
+   "Data(dB)": "-34,83"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 90,
+   "Theta": 180,
+   "Data(dB)": "-37,86"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 0,
+   "Data(dB)": "-33,04"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 15,
+   "Data(dB)": "-29,58"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 30,
+   "Data(dB)": "-26,74"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 45,
+   "Data(dB)": "-30,04"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 60,
+   "Data(dB)": "-28,72"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 75,
+   "Data(dB)": "-28,67"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 90,
+   "Data(dB)": "-34,79"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 105,
+   "Data(dB)": "-39,13"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 120,
+   "Data(dB)": "-35,97"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 135,
+   "Data(dB)": "-34,34"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 150,
+   "Data(dB)": "-33,73"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 165,
+   "Data(dB)": "-36,68"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 105,
+   "Theta": 180,
+   "Data(dB)": "-33,95"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 0,
+   "Data(dB)": "-32,2"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 15,
+   "Data(dB)": "-28,28"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 30,
+   "Data(dB)": "-25,51"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 45,
+   "Data(dB)": "-29,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 60,
+   "Data(dB)": "-28,68"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 75,
+   "Data(dB)": "-31,4"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 90,
+   "Data(dB)": "-26,78"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 105,
+   "Data(dB)": "-27,52"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 120,
+   "Data(dB)": "-34,09"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 135,
+   "Data(dB)": "-38,98"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 150,
+   "Data(dB)": "-32,95"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 165,
+   "Data(dB)": "-40,41"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 120,
+   "Theta": 180,
+   "Data(dB)": "-32,22"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 0,
+   "Data(dB)": "-31,51"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 15,
+   "Data(dB)": "-28,45"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 30,
+   "Data(dB)": "-25,23"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 45,
+   "Data(dB)": "-27,97"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 60,
+   "Data(dB)": "-26,54"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 75,
+   "Data(dB)": "-25,33"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 90,
+   "Data(dB)": "-28,86"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 105,
+   "Data(dB)": "-33,17"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 120,
+   "Data(dB)": "-36,18"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 135,
+   "Data(dB)": "-35,22"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 150,
+   "Data(dB)": "-27,98"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 165,
+   "Data(dB)": "-39,66"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 135,
+   "Theta": 180,
+   "Data(dB)": "-31,55"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 0,
+   "Data(dB)": "-32,51"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 15,
+   "Data(dB)": "-25,57"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 30,
+   "Data(dB)": "-24,77"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 45,
+   "Data(dB)": "-25,7"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 60,
+   "Data(dB)": "-27,46"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 75,
+   "Data(dB)": "-29,97"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 90,
+   "Data(dB)": "-32,19"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 105,
+   "Data(dB)": "-33,18"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 120,
+   "Data(dB)": "-37,76"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 135,
+   "Data(dB)": "-35,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 150,
+   "Data(dB)": "-27,13"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 165,
+   "Data(dB)": "-31,36"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 150,
+   "Theta": 180,
+   "Data(dB)": "-31,15"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 0,
+   "Data(dB)": "-32,97"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 15,
+   "Data(dB)": "-25,91"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 30,
+   "Data(dB)": "-26,76"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 45,
+   "Data(dB)": "-23,98"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 60,
+   "Data(dB)": "-30,15"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 75,
+   "Data(dB)": "-27,95"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 90,
+   "Data(dB)": "-25,73"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 105,
+   "Data(dB)": "-29,62"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 120,
+   "Data(dB)": "-32,68"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 135,
+   "Data(dB)": "-36,75"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 150,
+   "Data(dB)": "-28,75"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 165,
+   "Data(dB)": "-27,69"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 165,
+   "Theta": 180,
+   "Data(dB)": "-30,95"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 0,
+   "Data(dB)": "-34,94"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 15,
+   "Data(dB)": "-27,92"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 30,
+   "Data(dB)": "-26,46"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 45,
+   "Data(dB)": "-26,95"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 60,
+   "Data(dB)": "-32,73"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 75,
+   "Data(dB)": "-25,3"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 90,
+   "Data(dB)": "-24,95"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 105,
+   "Data(dB)": "-25,92"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 120,
+   "Data(dB)": "-29,53"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 135,
+   "Data(dB)": "-31,42"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 150,
+   "Data(dB)": "-30,22"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 165,
+   "Data(dB)": "-28,04"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 180,
+   "Theta": 180,
+   "Data(dB)": "-31,78"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 0,
+   "Data(dB)": "-37,87"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 15,
+   "Data(dB)": "-29,22"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 30,
+   "Data(dB)": "-29,13"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 45,
+   "Data(dB)": "-32,94"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 60,
+   "Data(dB)": "-31,12"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 75,
+   "Data(dB)": "-25,37"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 90,
+   "Data(dB)": "-26,77"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 105,
+   "Data(dB)": "-27,29"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 120,
+   "Data(dB)": "-28,47"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 135,
+   "Data(dB)": "-29,65"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 150,
+   "Data(dB)": "-29,95"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 165,
+   "Data(dB)": "-27,03"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 195,
+   "Theta": 180,
+   "Data(dB)": "-33,58"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 0,
+   "Data(dB)": "-44,24"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 15,
+   "Data(dB)": "-31,98"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 30,
+   "Data(dB)": "-35,93"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 45,
+   "Data(dB)": "-32,81"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 60,
+   "Data(dB)": "-35,46"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 75,
+   "Data(dB)": "-27,63"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 90,
+   "Data(dB)": "-29,34"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 105,
+   "Data(dB)": "-30,13"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 120,
+   "Data(dB)": "-31,2"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 135,
+   "Data(dB)": "-30,35"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 150,
+   "Data(dB)": "-29,79"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 165,
+   "Data(dB)": "-27,8"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 210,
+   "Theta": 180,
+   "Data(dB)": "-35,73"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 0,
+   "Data(dB)": "-72,01"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 15,
+   "Data(dB)": "-40,3"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 30,
+   "Data(dB)": "-47,15"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 45,
+   "Data(dB)": "-44"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 60,
+   "Data(dB)": "-35,5"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 75,
+   "Data(dB)": "-32,58"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 90,
+   "Data(dB)": "-32,59"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 105,
+   "Data(dB)": "-32"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 120,
+   "Data(dB)": "-42,37"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 135,
+   "Data(dB)": "-30,39"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 150,
+   "Data(dB)": "-28,41"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 165,
+   "Data(dB)": "-30,24"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 225,
+   "Theta": 180,
+   "Data(dB)": "-40,86"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 0,
+   "Data(dB)": "-43,25"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 15,
+   "Data(dB)": "-40,5"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 30,
+   "Data(dB)": "-36,96"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 45,
+   "Data(dB)": "-34,7"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 60,
+   "Data(dB)": "-43,07"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 75,
+   "Data(dB)": "-39,46"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 90,
+   "Data(dB)": "-47,56"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 105,
+   "Data(dB)": "-36,55"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 120,
+   "Data(dB)": "-38,66"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 135,
+   "Data(dB)": "-31,08"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 150,
+   "Data(dB)": "-30,76"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 165,
+   "Data(dB)": "-30,86"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 240,
+   "Theta": 180,
+   "Data(dB)": "-57,64"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 0,
+   "Data(dB)": "-37,48"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 15,
+   "Data(dB)": "-35,77"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 30,
+   "Data(dB)": "-41,81"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 45,
+   "Data(dB)": "-33,61"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 60,
+   "Data(dB)": "-32,97"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 75,
+   "Data(dB)": "-39,48"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 90,
+   "Data(dB)": "-40,36"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 105,
+   "Data(dB)": "-34,49"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 120,
+   "Data(dB)": "-36,94"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 135,
+   "Data(dB)": "-37,29"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 150,
+   "Data(dB)": "-33,55"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 165,
+   "Data(dB)": "-38,76"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 255,
+   "Theta": 180,
+   "Data(dB)": "-44,15"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 0,
+   "Data(dB)": "-34,99"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 15,
+   "Data(dB)": "-31,73"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 30,
+   "Data(dB)": "-39,7"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 45,
+   "Data(dB)": "-32,81"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 60,
+   "Data(dB)": "-34,67"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 75,
+   "Data(dB)": "-38,63"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 90,
+   "Data(dB)": "-34,26"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 105,
+   "Data(dB)": "-45,06"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 120,
+   "Data(dB)": "-44,9"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 135,
+   "Data(dB)": "-40,62"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 150,
+   "Data(dB)": "-54,43"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 165,
+   "Data(dB)": "-53,28"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 270,
+   "Theta": 180,
+   "Data(dB)": "-37,36"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 0,
+   "Data(dB)": "-33,44"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 15,
+   "Data(dB)": "-37,49"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 30,
+   "Data(dB)": "-37,42"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 45,
+   "Data(dB)": "-35,19"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 60,
+   "Data(dB)": "-41,09"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 75,
+   "Data(dB)": "-44,66"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 90,
+   "Data(dB)": "-33,58"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 105,
+   "Data(dB)": "-36,19"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 120,
+   "Data(dB)": "-36,46"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 135,
+   "Data(dB)": "-36,22"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 150,
+   "Data(dB)": "-37,38"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 165,
+   "Data(dB)": "-35,5"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 285,
+   "Theta": 180,
+   "Data(dB)": "-34,75"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 0,
+   "Data(dB)": "-32,3"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 15,
+   "Data(dB)": "-36,35"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 30,
+   "Data(dB)": "-36,92"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 45,
+   "Data(dB)": "-33,7"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 60,
+   "Data(dB)": "-32,89"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 75,
+   "Data(dB)": "-34,47"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 90,
+   "Data(dB)": "-34,57"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 105,
+   "Data(dB)": "-33,42"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 120,
+   "Data(dB)": "-27,94"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 135,
+   "Data(dB)": "-33,23"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 150,
+   "Data(dB)": "-30,24"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 165,
+   "Data(dB)": "-41,28"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 300,
+   "Theta": 180,
+   "Data(dB)": "-32,72"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 0,
+   "Data(dB)": "-31,91"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 15,
+   "Data(dB)": "-37,16"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 30,
+   "Data(dB)": "-31,38"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 45,
+   "Data(dB)": "-30,92"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 60,
+   "Data(dB)": "-29,14"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 75,
+   "Data(dB)": "-29,41"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 90,
+   "Data(dB)": "-32,61"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 105,
+   "Data(dB)": "-34,12"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 120,
+   "Data(dB)": "-30,34"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 135,
+   "Data(dB)": "-28,6"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 150,
+   "Data(dB)": "-26,93"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 165,
+   "Data(dB)": "-33,5"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 315,
+   "Theta": 180,
+   "Data(dB)": "-31,05"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 0,
+   "Data(dB)": "-32,31"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 15,
+   "Data(dB)": "-36,11"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 30,
+   "Data(dB)": "-30,81"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 45,
+   "Data(dB)": "-27,52"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 60,
+   "Data(dB)": "-26,98"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 75,
+   "Data(dB)": "-29,12"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 90,
+   "Data(dB)": "-30,06"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 105,
+   "Data(dB)": "-35,2"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 120,
+   "Data(dB)": "-31,15"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 135,
+   "Data(dB)": "-30,69"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 150,
+   "Data(dB)": "-25,67"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 165,
+   "Data(dB)": "-31,09"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 330,
+   "Theta": 180,
+   "Data(dB)": "-31,25"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 0,
+   "Data(dB)": "-33,47"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 15,
+   "Data(dB)": "-37,76"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 30,
+   "Data(dB)": "-28,94"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 45,
+   "Data(dB)": "-26,27"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 60,
+   "Data(dB)": "-25,51"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 75,
+   "Data(dB)": "-26,03"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 90,
+   "Data(dB)": "-30,64"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 105,
+   "Data(dB)": "-31,17"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 120,
+   "Data(dB)": "-31,53"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 135,
+   "Data(dB)": "-30,37"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 150,
+   "Data(dB)": "-28,09"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 165,
+   "Data(dB)": "-31,68"
+ },
+ {
+   "Frequency(MHz)": 5650,
+   "Phi": 345,
+   "Theta": 180,
+   "Data(dB)": "-30,65"
+ }
+]

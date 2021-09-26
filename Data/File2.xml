@@ -1,0 +1,5275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAVINGS>
+    <Data :0>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.34</Measurement:>
+    </Data :0>
+    <Data :1>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-33.55</Measurement:>
+    </Data :1>
+    <Data :2>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-28.97</Measurement:>
+    </Data :2>
+    <Data :3>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-27.39</Measurement:>
+    </Data :3>
+    <Data :4>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-26.36</Measurement:>
+    </Data :4>
+    <Data :5>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-29.42</Measurement:>
+    </Data :5>
+    <Data :6>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-47.25</Measurement:>
+    </Data :6>
+    <Data :7>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.19</Measurement:>
+    </Data :7>
+    <Data :8>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-29.99</Measurement:>
+    </Data :8>
+    <Data :9>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-33.61</Measurement:>
+    </Data :9>
+    <Data :10>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-28.93</Measurement:>
+    </Data :10>
+    <Data :11>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-31.37</Measurement:>
+    </Data :11>
+    <Data :12>
+        <Frequency:>5180</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.09</Measurement:>
+    </Data :12>
+    <Data :13>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-36.22</Measurement:>
+    </Data :13>
+    <Data :14>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-34.98</Measurement:>
+    </Data :14>
+    <Data :15>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-35.61</Measurement:>
+    </Data :15>
+    <Data :16>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-28.36</Measurement:>
+    </Data :16>
+    <Data :17>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-28.94</Measurement:>
+    </Data :17>
+    <Data :18>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-32.75</Measurement:>
+    </Data :18>
+    <Data :19>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-47.58</Measurement:>
+    </Data :19>
+    <Data :20>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.08</Measurement:>
+    </Data :20>
+    <Data :21>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-30.56</Measurement:>
+    </Data :21>
+    <Data :22>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-32.37</Measurement:>
+    </Data :22>
+    <Data :23>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.54</Measurement:>
+    </Data :23>
+    <Data :24>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-32.73</Measurement:>
+    </Data :24>
+    <Data :25>
+        <Frequency:>5180</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-32.08</Measurement:>
+    </Data :25>
+    <Data :26>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-41.27</Measurement:>
+    </Data :26>
+    <Data :27>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-39.25</Measurement:>
+    </Data :27>
+    <Data :28>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-37.02</Measurement:>
+    </Data :28>
+    <Data :29>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-33.45</Measurement:>
+    </Data :29>
+    <Data :30>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-35.18</Measurement:>
+    </Data :30>
+    <Data :31>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-48.37</Measurement:>
+    </Data :31>
+    <Data :32>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-38.29</Measurement:>
+    </Data :32>
+    <Data :33>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-35.07</Measurement:>
+    </Data :33>
+    <Data :34>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-31.78</Measurement:>
+    </Data :34>
+    <Data :35>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-44.19</Measurement:>
+    </Data :35>
+    <Data :36>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.04</Measurement:>
+    </Data :36>
+    <Data :37>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-31.06</Measurement:>
+    </Data :37>
+    <Data :38>
+        <Frequency:>5180</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-33.87</Measurement:>
+    </Data :38>
+    <Data :39>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-54.56</Measurement:>
+    </Data :39>
+    <Data :40>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-43.52</Measurement:>
+    </Data :40>
+    <Data :41>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-38.43</Measurement:>
+    </Data :41>
+    <Data :42>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-39.46</Measurement:>
+    </Data :42>
+    <Data :43>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-42.64</Measurement:>
+    </Data :43>
+    <Data :44>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-34.12</Measurement:>
+    </Data :44>
+    <Data :45>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-32.91</Measurement:>
+    </Data :45>
+    <Data :46>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.83</Measurement:>
+    </Data :46>
+    <Data :47>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-33.83</Measurement:>
+    </Data :47>
+    <Data :48>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-37.04</Measurement:>
+    </Data :48>
+    <Data :49>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.02</Measurement:>
+    </Data :49>
+    <Data :50>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.25</Measurement:>
+    </Data :50>
+    <Data :51>
+        <Frequency:>5180</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-36.66</Measurement:>
+    </Data :51>
+    <Data :52>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-46.07</Measurement:>
+    </Data :52>
+    <Data :53>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-45.63</Measurement:>
+    </Data :53>
+    <Data :54>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-33.09</Measurement:>
+    </Data :54>
+    <Data :55>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-36.02</Measurement:>
+    </Data :55>
+    <Data :56>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-34.06</Measurement:>
+    </Data :56>
+    <Data :57>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-32.64</Measurement:>
+    </Data :57>
+    <Data :58>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-33.25</Measurement:>
+    </Data :58>
+    <Data :59>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-35.05</Measurement:>
+    </Data :59>
+    <Data :60>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-37.64</Measurement:>
+    </Data :60>
+    <Data :61>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-32.07</Measurement:>
+    </Data :61>
+    <Data :62>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-33.34</Measurement:>
+    </Data :62>
+    <Data :63>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-34.84</Measurement:>
+    </Data :63>
+    <Data :64>
+        <Frequency:>5180</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-42.45</Measurement:>
+    </Data :64>
+    <Data :65>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-38.36</Measurement:>
+    </Data :65>
+    <Data :66>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-38.04</Measurement:>
+    </Data :66>
+    <Data :67>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-31.37</Measurement:>
+    </Data :67>
+    <Data :68>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-33.81</Measurement:>
+    </Data :68>
+    <Data :69>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-39.24</Measurement:>
+    </Data :69>
+    <Data :70>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-37.29</Measurement:>
+    </Data :70>
+    <Data :71>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-41.39</Measurement:>
+    </Data :71>
+    <Data :72>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.21</Measurement:>
+    </Data :72>
+    <Data :73>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.28</Measurement:>
+    </Data :73>
+    <Data :74>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-36.08</Measurement:>
+    </Data :74>
+    <Data :75>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.34</Measurement:>
+    </Data :75>
+    <Data :76>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-35.08</Measurement:>
+    </Data :76>
+    <Data :77>
+        <Frequency:>5180</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-65.31</Measurement:>
+    </Data :77>
+    <Data :78>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.93</Measurement:>
+    </Data :78>
+    <Data :79>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-32.07</Measurement:>
+    </Data :79>
+    <Data :80>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-29.68</Measurement:>
+    </Data :80>
+    <Data :81>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-38.37</Measurement:>
+    </Data :81>
+    <Data :82>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-34.37</Measurement:>
+    </Data :82>
+    <Data :83>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-34.18</Measurement:>
+    </Data :83>
+    <Data :84>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-28.62</Measurement:>
+    </Data :84>
+    <Data :85>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-29.47</Measurement:>
+    </Data :85>
+    <Data :86>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-41.25</Measurement:>
+    </Data :86>
+    <Data :87>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-39.44</Measurement:>
+    </Data :87>
+    <Data :88>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.51</Measurement:>
+    </Data :88>
+    <Data :89>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-34.28</Measurement:>
+    </Data :89>
+    <Data :90>
+        <Frequency:>5180</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-43.05</Measurement:>
+    </Data :90>
+    <Data :91>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.38</Measurement:>
+    </Data :91>
+    <Data :92>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-31.46</Measurement:>
+    </Data :92>
+    <Data :93>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-28.03</Measurement:>
+    </Data :93>
+    <Data :94>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-31.72</Measurement:>
+    </Data :94>
+    <Data :95>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-27.61</Measurement:>
+    </Data :95>
+    <Data :96>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-30.71</Measurement:>
+    </Data :96>
+    <Data :97>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-35.59</Measurement:>
+    </Data :97>
+    <Data :98>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-38.94</Measurement:>
+    </Data :98>
+    <Data :99>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-34.07</Measurement:>
+    </Data :99>
+    <Data :100>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-36.04</Measurement:>
+    </Data :100>
+    <Data :101>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-36.61</Measurement:>
+    </Data :101>
+    <Data :102>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-37.35</Measurement:>
+    </Data :102>
+    <Data :103>
+        <Frequency:>5180</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-37.46</Measurement:>
+    </Data :103>
+    <Data :104>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.98</Measurement:>
+    </Data :104>
+    <Data :105>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-31.56</Measurement:>
+    </Data :105>
+    <Data :106>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-27.53</Measurement:>
+    </Data :106>
+    <Data :107>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-31.82</Measurement:>
+    </Data :107>
+    <Data :108>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-28.31</Measurement:>
+    </Data :108>
+    <Data :109>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-30.31</Measurement:>
+    </Data :109>
+    <Data :110>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-35.79</Measurement:>
+    </Data :110>
+    <Data :111>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-39.14</Measurement:>
+    </Data :111>
+    <Data :112>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-35.01</Measurement:>
+    </Data :112>
+    <Data :113>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-36.84</Measurement:>
+    </Data :113>
+    <Data :114>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-37.41</Measurement:>
+    </Data :114>
+    <Data :115>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-36.65</Measurement:>
+    </Data :115>
+    <Data :116>
+        <Frequency:>5180</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-37.56</Measurement:>
+    </Data :116>
+    <Data :117>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-31.65</Measurement:>
+    </Data :117>
+    <Data :118>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-27.23</Measurement:>
+    </Data :118>
+    <Data :119>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-25.15</Measurement:>
+    </Data :119>
+    <Data :120>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-28.49</Measurement:>
+    </Data :120>
+    <Data :121>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-24.94</Measurement:>
+    </Data :121>
+    <Data :122>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-26.23</Measurement:>
+    </Data :122>
+    <Data :123>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-26.84</Measurement:>
+    </Data :123>
+    <Data :124>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-36.08</Measurement:>
+    </Data :124>
+    <Data :125>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-34.65</Measurement:>
+    </Data :125>
+    <Data :126>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-35.36</Measurement:>
+    </Data :126>
+    <Data :127>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-27.56</Measurement:>
+    </Data :127>
+    <Data :128>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-34.73</Measurement:>
+    </Data :128>
+    <Data :129>
+        <Frequency:>5180</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-32.18</Measurement:>
+    </Data :129>
+    <Data :130>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-31.28</Measurement:>
+    </Data :130>
+    <Data :131>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-26.09</Measurement:>
+    </Data :131>
+    <Data :132>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-24.56</Measurement:>
+    </Data :132>
+    <Data :133>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-25.26</Measurement:>
+    </Data :133>
+    <Data :134>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-27.81</Measurement:>
+    </Data :134>
+    <Data :135>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-30.99</Measurement:>
+    </Data :135>
+    <Data :136>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-32.57</Measurement:>
+    </Data :136>
+    <Data :137>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-35.04</Measurement:>
+    </Data :137>
+    <Data :138>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-40.18</Measurement:>
+    </Data :138>
+    <Data :139>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-35.32</Measurement:>
+    </Data :139>
+    <Data :140>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-26.47</Measurement:>
+    </Data :140>
+    <Data :141>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.81</Measurement:>
+    </Data :141>
+    <Data :142>
+        <Frequency:>5180</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.28</Measurement:>
+    </Data :142>
+    <Data :143>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.03</Measurement:>
+    </Data :143>
+    <Data :144>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-26.43</Measurement:>
+    </Data :144>
+    <Data :145>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-26.39</Measurement:>
+    </Data :145>
+    <Data :146>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-24.02</Measurement:>
+    </Data :146>
+    <Data :147>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-29.71</Measurement:>
+    </Data :147>
+    <Data :148>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-29.72</Measurement:>
+    </Data :148>
+    <Data :149>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-24.72</Measurement:>
+    </Data :149>
+    <Data :150>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-27.58</Measurement:>
+    </Data :150>
+    <Data :151>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-34.54</Measurement:>
+    </Data :151>
+    <Data :152>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-37.23</Measurement:>
+    </Data :152>
+    <Data :153>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.71</Measurement:>
+    </Data :153>
+    <Data :154>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-28.41</Measurement:>
+    </Data :154>
+    <Data :155>
+        <Frequency:>5180</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.13</Measurement:>
+    </Data :155>
+    <Data :156>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.14</Measurement:>
+    </Data :156>
+    <Data :157>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-27.08</Measurement:>
+    </Data :157>
+    <Data :158>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-26.12</Measurement:>
+    </Data :158>
+    <Data :159>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-30.28</Measurement:>
+    </Data :159>
+    <Data :160>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-30.91</Measurement:>
+    </Data :160>
+    <Data :161>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-24.89</Measurement:>
+    </Data :161>
+    <Data :162>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-23.82</Measurement:>
+    </Data :162>
+    <Data :163>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-28.04</Measurement:>
+    </Data :163>
+    <Data :164>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-30.04</Measurement:>
+    </Data :164>
+    <Data :165>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-36.86</Measurement:>
+    </Data :165>
+    <Data :166>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.54</Measurement:>
+    </Data :166>
+    <Data :167>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.45</Measurement:>
+    </Data :167>
+    <Data :168>
+        <Frequency:>5180</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.29</Measurement:>
+    </Data :168>
+    <Data :169>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-36.12</Measurement:>
+    </Data :169>
+    <Data :170>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-28.08</Measurement:>
+    </Data :170>
+    <Data :171>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-30.24</Measurement:>
+    </Data :171>
+    <Data :172>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-34.84</Measurement:>
+    </Data :172>
+    <Data :173>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-31.35</Measurement:>
+    </Data :173>
+    <Data :174>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-24.86</Measurement:>
+    </Data :174>
+    <Data :175>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-26.94</Measurement:>
+    </Data :175>
+    <Data :176>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-27.35</Measurement:>
+    </Data :176>
+    <Data :177>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-31.66</Measurement:>
+    </Data :177>
+    <Data :178>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.69</Measurement:>
+    </Data :178>
+    <Data :179>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-32.33</Measurement:>
+    </Data :179>
+    <Data :180>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.79</Measurement:>
+    </Data :180>
+    <Data :181>
+        <Frequency:>5180</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.68</Measurement:>
+    </Data :181>
+    <Data :182>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-40.97</Measurement:>
+    </Data :182>
+    <Data :183>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-34.83</Measurement:>
+    </Data :183>
+    <Data :184>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-34.14</Measurement:>
+    </Data :184>
+    <Data :185>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-36.97</Measurement:>
+    </Data :185>
+    <Data :186>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-33.09</Measurement:>
+    </Data :186>
+    <Data :187>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-28.44</Measurement:>
+    </Data :187>
+    <Data :188>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-29.26</Measurement:>
+    </Data :188>
+    <Data :189>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-27.79</Measurement:>
+    </Data :189>
+    <Data :190>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-34.75</Measurement:>
+    </Data :190>
+    <Data :191>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-29.34</Measurement:>
+    </Data :191>
+    <Data :192>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.36</Measurement:>
+    </Data :192>
+    <Data :193>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.06</Measurement:>
+    </Data :193>
+    <Data :194>
+        <Frequency:>5180</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-33.57</Measurement:>
+    </Data :194>
+    <Data :195>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-54.66</Measurement:>
+    </Data :195>
+    <Data :196>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-34.76</Measurement:>
+    </Data :196>
+    <Data :197>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-44.54</Measurement:>
+    </Data :197>
+    <Data :198>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-39.47</Measurement:>
+    </Data :198>
+    <Data :199>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-36.06</Measurement:>
+    </Data :199>
+    <Data :200>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-34.75</Measurement:>
+    </Data :200>
+    <Data :201>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-34.61</Measurement:>
+    </Data :201>
+    <Data :202>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-31.31</Measurement:>
+    </Data :202>
+    <Data :203>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-42.63</Measurement:>
+    </Data :203>
+    <Data :204>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-29.07</Measurement:>
+    </Data :204>
+    <Data :205>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.07</Measurement:>
+    </Data :205>
+    <Data :206>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-28.78</Measurement:>
+    </Data :206>
+    <Data :207>
+        <Frequency:>5180</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-36.16</Measurement:>
+    </Data :207>
+    <Data :208>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-46.01</Measurement:>
+    </Data :208>
+    <Data :209>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-35.72</Measurement:>
+    </Data :209>
+    <Data :210>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-40.42</Measurement:>
+    </Data :210>
+    <Data :211>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-37.72</Measurement:>
+    </Data :211>
+    <Data :212>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-36.74</Measurement:>
+    </Data :212>
+    <Data :213>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-34.65</Measurement:>
+    </Data :213>
+    <Data :214>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-44.23</Measurement:>
+    </Data :214>
+    <Data :215>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-38.02</Measurement:>
+    </Data :215>
+    <Data :216>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-44.05</Measurement:>
+    </Data :216>
+    <Data :217>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-32.38</Measurement:>
+    </Data :217>
+    <Data :218>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-28.62</Measurement:>
+    </Data :218>
+    <Data :219>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-32.36</Measurement:>
+    </Data :219>
+    <Data :220>
+        <Frequency:>5180</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-42.25</Measurement:>
+    </Data :220>
+    <Data :221>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-39.26</Measurement:>
+    </Data :221>
+    <Data :222>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-36.21</Measurement:>
+    </Data :222>
+    <Data :223>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-39.12</Measurement:>
+    </Data :223>
+    <Data :224>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-34.15</Measurement:>
+    </Data :224>
+    <Data :225>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-37.91</Measurement:>
+    </Data :225>
+    <Data :226>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-39.96</Measurement:>
+    </Data :226>
+    <Data :227>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-44.29</Measurement:>
+    </Data :227>
+    <Data :228>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-35.59</Measurement:>
+    </Data :228>
+    <Data :229>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-42</Measurement:>
+    </Data :229>
+    <Data :230>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-42.41</Measurement:>
+    </Data :230>
+    <Data :231>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-36.29</Measurement:>
+    </Data :231>
+    <Data :232>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-39.56</Measurement:>
+    </Data :232>
+    <Data :233>
+        <Frequency:>5180</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-64.51</Measurement:>
+    </Data :233>
+    <Data :234>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-35.83</Measurement:>
+    </Data :234>
+    <Data :235>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-33.04</Measurement:>
+    </Data :235>
+    <Data :236>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-38.25</Measurement:>
+    </Data :236>
+    <Data :237>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-36.59</Measurement:>
+    </Data :237>
+    <Data :238>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-36.31</Measurement:>
+    </Data :238>
+    <Data :239>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-40.17</Measurement:>
+    </Data :239>
+    <Data :240>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-40.47</Measurement:>
+    </Data :240>
+    <Data :241>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-43.09</Measurement:>
+    </Data :241>
+    <Data :242>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-43.07</Measurement:>
+    </Data :242>
+    <Data :243>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-41.31</Measurement:>
+    </Data :243>
+    <Data :244>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-44.06</Measurement:>
+    </Data :244>
+    <Data :245>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-38.75</Measurement:>
+    </Data :245>
+    <Data :246>
+        <Frequency:>5180</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-42.85</Measurement:>
+    </Data :246>
+    <Data :247>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.58</Measurement:>
+    </Data :247>
+    <Data :248>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-34.35</Measurement:>
+    </Data :248>
+    <Data :249>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-38.56</Measurement:>
+    </Data :249>
+    <Data :250>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-34.44</Measurement:>
+    </Data :250>
+    <Data :251>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-39.88</Measurement:>
+    </Data :251>
+    <Data :252>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-46.88</Measurement:>
+    </Data :252>
+    <Data :253>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-36.38</Measurement:>
+    </Data :253>
+    <Data :254>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-35.03</Measurement:>
+    </Data :254>
+    <Data :255>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.12</Measurement:>
+    </Data :255>
+    <Data :256>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-36.07</Measurement:>
+    </Data :256>
+    <Data :257>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-40.34</Measurement:>
+    </Data :257>
+    <Data :258>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-42</Measurement:>
+    </Data :258>
+    <Data :259>
+        <Frequency:>5180</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-37.06</Measurement:>
+    </Data :259>
+    <Data :260>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.22</Measurement:>
+    </Data :260>
+    <Data :261>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-33.35</Measurement:>
+    </Data :261>
+    <Data :262>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-32.46</Measurement:>
+    </Data :262>
+    <Data :263>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-36.36</Measurement:>
+    </Data :263>
+    <Data :264>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-36.05</Measurement:>
+    </Data :264>
+    <Data :265>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-34.36</Measurement:>
+    </Data :265>
+    <Data :266>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-37.84</Measurement:>
+    </Data :266>
+    <Data :267>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-36.53</Measurement:>
+    </Data :267>
+    <Data :268>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-29</Measurement:>
+    </Data :268>
+    <Data :269>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-31.31</Measurement:>
+    </Data :269>
+    <Data :270>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.69</Measurement:>
+    </Data :270>
+    <Data :271>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-36.96</Measurement:>
+    </Data :271>
+    <Data :272>
+        <Frequency:>5180</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-34.52</Measurement:>
+    </Data :272>
+    <Data :273>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.15</Measurement:>
+    </Data :273>
+    <Data :274>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-34.85</Measurement:>
+    </Data :274>
+    <Data :275>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-32.69</Measurement:>
+    </Data :275>
+    <Data :276>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-30.88</Measurement:>
+    </Data :276>
+    <Data :277>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-28.58</Measurement:>
+    </Data :277>
+    <Data :278>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-32.76</Measurement:>
+    </Data :278>
+    <Data :279>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-32.05</Measurement:>
+    </Data :279>
+    <Data :280>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.65</Measurement:>
+    </Data :280>
+    <Data :281>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-31.75</Measurement:>
+    </Data :281>
+    <Data :282>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-27.59</Measurement:>
+    </Data :282>
+    <Data :283>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.07</Measurement:>
+    </Data :283>
+    <Data :284>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-34.51</Measurement:>
+    </Data :284>
+    <Data :285>
+        <Frequency:>5180</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.88</Measurement:>
+    </Data :285>
+    <Data :286>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-31.78</Measurement:>
+    </Data :286>
+    <Data :287>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-36.29</Measurement:>
+    </Data :287>
+    <Data :288>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-29.68</Measurement:>
+    </Data :288>
+    <Data :289>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-26.83</Measurement:>
+    </Data :289>
+    <Data :290>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-25.58</Measurement:>
+    </Data :290>
+    <Data :291>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-27.02</Measurement:>
+    </Data :291>
+    <Data :292>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-31.29</Measurement:>
+    </Data :292>
+    <Data :293>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-38.97</Measurement:>
+    </Data :293>
+    <Data :294>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-33.03</Measurement:>
+    </Data :294>
+    <Data :295>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.66</Measurement:>
+    </Data :295>
+    <Data :296>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-27.01</Measurement:>
+    </Data :296>
+    <Data :297>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.33</Measurement:>
+    </Data :297>
+    <Data :298>
+        <Frequency:>5180</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.68</Measurement:>
+    </Data :298>
+    <Data :299>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.23</Measurement:>
+    </Data :299>
+    <Data :300>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-39.62</Measurement:>
+    </Data :300>
+    <Data :301>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-28.09</Measurement:>
+    </Data :301>
+    <Data :302>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-25.41</Measurement:>
+    </Data :302>
+    <Data :303>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-27.02</Measurement:>
+    </Data :303>
+    <Data :304>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-27.41</Measurement:>
+    </Data :304>
+    <Data :305>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-31.47</Measurement:>
+    </Data :305>
+    <Data :306>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-34.78</Measurement:>
+    </Data :306>
+    <Data :307>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-36.47</Measurement:>
+    </Data :307>
+    <Data :308>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-33.76</Measurement:>
+    </Data :308>
+    <Data :309>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.26</Measurement:>
+    </Data :309>
+    <Data :310>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.67</Measurement:>
+    </Data :310>
+    <Data :311>
+        <Frequency:>5180</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-30.93</Measurement:>
+    </Data :311>
+    <Data :312>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.08</Measurement:>
+    </Data :312>
+    <Data :313>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-34.62</Measurement:>
+    </Data :313>
+    <Data :314>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-29.71</Measurement:>
+    </Data :314>
+    <Data :315>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-31.34</Measurement:>
+    </Data :315>
+    <Data :316>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-26.94</Measurement:>
+    </Data :316>
+    <Data :317>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-31.26</Measurement:>
+    </Data :317>
+    <Data :318>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-45.51</Measurement:>
+    </Data :318>
+    <Data :319>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-34.01</Measurement:>
+    </Data :319>
+    <Data :320>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-31.21</Measurement:>
+    </Data :320>
+    <Data :321>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.73</Measurement:>
+    </Data :321>
+    <Data :322>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.11</Measurement:>
+    </Data :322>
+    <Data :323>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-30.71</Measurement:>
+    </Data :323>
+    <Data :324>
+        <Frequency:>5500</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.36</Measurement:>
+    </Data :324>
+    <Data :325>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-36.01</Measurement:>
+    </Data :325>
+    <Data :326>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-35.93</Measurement:>
+    </Data :326>
+    <Data :327>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-32.62</Measurement:>
+    </Data :327>
+    <Data :328>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-29.95</Measurement:>
+    </Data :328>
+    <Data :329>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-30.28</Measurement:>
+    </Data :329>
+    <Data :330>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-33.07</Measurement:>
+    </Data :330>
+    <Data :331>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-40.09</Measurement:>
+    </Data :331>
+    <Data :332>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-31.56</Measurement:>
+    </Data :332>
+    <Data :333>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-30.63</Measurement:>
+    </Data :333>
+    <Data :334>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-32.52</Measurement:>
+    </Data :334>
+    <Data :335>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.48</Measurement:>
+    </Data :335>
+    <Data :336>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.75</Measurement:>
+    </Data :336>
+    <Data :337>
+        <Frequency:>5500</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-32</Measurement:>
+    </Data :337>
+    <Data :338>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-38.42</Measurement:>
+    </Data :338>
+    <Data :339>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-37.27</Measurement:>
+    </Data :339>
+    <Data :340>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-36.03</Measurement:>
+    </Data :340>
+    <Data :341>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-31.08</Measurement:>
+    </Data :341>
+    <Data :342>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-34.19</Measurement:>
+    </Data :342>
+    <Data :343>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-47.52</Measurement:>
+    </Data :343>
+    <Data :344>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-35.74</Measurement:>
+    </Data :344>
+    <Data :345>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.39</Measurement:>
+    </Data :345>
+    <Data :346>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-31.33</Measurement:>
+    </Data :346>
+    <Data :347>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-38.92</Measurement:>
+    </Data :347>
+    <Data :348>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.06</Measurement:>
+    </Data :348>
+    <Data :349>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-31.73</Measurement:>
+    </Data :349>
+    <Data :350>
+        <Frequency:>5500</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-33.93</Measurement:>
+    </Data :350>
+    <Data :351>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-43.89</Measurement:>
+    </Data :351>
+    <Data :352>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-53.52</Measurement:>
+    </Data :352>
+    <Data :353>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-40.28</Measurement:>
+    </Data :353>
+    <Data :354>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-46.43</Measurement:>
+    </Data :354>
+    <Data :355>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-39.96</Measurement:>
+    </Data :355>
+    <Data :356>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-34.39</Measurement:>
+    </Data :356>
+    <Data :357>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-35.17</Measurement:>
+    </Data :357>
+    <Data :358>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.66</Measurement:>
+    </Data :358>
+    <Data :359>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.79</Measurement:>
+    </Data :359>
+    <Data :360>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-33.64</Measurement:>
+    </Data :360>
+    <Data :361>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.68</Measurement:>
+    </Data :361>
+    <Data :362>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-32.39</Measurement:>
+    </Data :362>
+    <Data :363>
+        <Frequency:>5500</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-38.22</Measurement:>
+    </Data :363>
+    <Data :364>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-69.31</Measurement:>
+    </Data :364>
+    <Data :365>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-43.56</Measurement:>
+    </Data :365>
+    <Data :366>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-33.45</Measurement:>
+    </Data :366>
+    <Data :367>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-34.93</Measurement:>
+    </Data :367>
+    <Data :368>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-34.17</Measurement:>
+    </Data :368>
+    <Data :369>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-33.26</Measurement:>
+    </Data :369>
+    <Data :370>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-33.83</Measurement:>
+    </Data :370>
+    <Data :371>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-35.48</Measurement:>
+    </Data :371>
+    <Data :372>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-37.52</Measurement:>
+    </Data :372>
+    <Data :373>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-32</Measurement:>
+    </Data :373>
+    <Data :374>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-32.29</Measurement:>
+    </Data :374>
+    <Data :375>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-32.02</Measurement:>
+    </Data :375>
+    <Data :376>
+        <Frequency:>5500</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-44.83</Measurement:>
+    </Data :376>
+    <Data :377>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-45.26</Measurement:>
+    </Data :377>
+    <Data :378>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-38.89</Measurement:>
+    </Data :378>
+    <Data :379>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-33.01</Measurement:>
+    </Data :379>
+    <Data :380>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-38.61</Measurement:>
+    </Data :380>
+    <Data :381>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-36.43</Measurement:>
+    </Data :381>
+    <Data :382>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-36.22</Measurement:>
+    </Data :382>
+    <Data :383>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-39.04</Measurement:>
+    </Data :383>
+    <Data :384>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-34.07</Measurement:>
+    </Data :384>
+    <Data :385>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.78</Measurement:>
+    </Data :385>
+    <Data :386>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-34.62</Measurement:>
+    </Data :386>
+    <Data :387>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.04</Measurement:>
+    </Data :387>
+    <Data :388>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-37.25</Measurement:>
+    </Data :388>
+    <Data :389>
+        <Frequency:>5500</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-54.08</Measurement:>
+    </Data :389>
+    <Data :390>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-38.67</Measurement:>
+    </Data :390>
+    <Data :391>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-32.53</Measurement:>
+    </Data :391>
+    <Data :392>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-29.35</Measurement:>
+    </Data :392>
+    <Data :393>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-37.09</Measurement:>
+    </Data :393>
+    <Data :394>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-34.05</Measurement:>
+    </Data :394>
+    <Data :395>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-36.55</Measurement:>
+    </Data :395>
+    <Data :396>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-28.56</Measurement:>
+    </Data :396>
+    <Data :397>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-29.18</Measurement:>
+    </Data :397>
+    <Data :398>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-41.53</Measurement:>
+    </Data :398>
+    <Data :399>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-42.88</Measurement:>
+    </Data :399>
+    <Data :400>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.42</Measurement:>
+    </Data :400>
+    <Data :401>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-34.68</Measurement:>
+    </Data :401>
+    <Data :402>
+        <Frequency:>5500</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-39.94</Measurement:>
+    </Data :402>
+    <Data :403>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-36.16</Measurement:>
+    </Data :403>
+    <Data :404>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-31.46</Measurement:>
+    </Data :404>
+    <Data :405>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-27.18</Measurement:>
+    </Data :405>
+    <Data :406>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-32.95</Measurement:>
+    </Data :406>
+    <Data :407>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-27.01</Measurement:>
+    </Data :407>
+    <Data :408>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-29.45</Measurement:>
+    </Data :408>
+    <Data :409>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-38.22</Measurement:>
+    </Data :409>
+    <Data :410>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-39.04</Measurement:>
+    </Data :410>
+    <Data :411>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-36.22</Measurement:>
+    </Data :411>
+    <Data :412>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-35.05</Measurement:>
+    </Data :412>
+    <Data :413>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-40.47</Measurement:>
+    </Data :413>
+    <Data :414>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-36.24</Measurement:>
+    </Data :414>
+    <Data :415>
+        <Frequency:>5500</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-35.83</Measurement:>
+    </Data :415>
+    <Data :416>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.55</Measurement:>
+    </Data :416>
+    <Data :417>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-27.47</Measurement:>
+    </Data :417>
+    <Data :418>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-24.54</Measurement:>
+    </Data :418>
+    <Data :419>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-29.31</Measurement:>
+    </Data :419>
+    <Data :420>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-27.25</Measurement:>
+    </Data :420>
+    <Data :421>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-31.68</Measurement:>
+    </Data :421>
+    <Data :422>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-27.39</Measurement:>
+    </Data :422>
+    <Data :423>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-28.97</Measurement:>
+    </Data :423>
+    <Data :424>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-33.29</Measurement:>
+    </Data :424>
+    <Data :425>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-41.03</Measurement:>
+    </Data :425>
+    <Data :426>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.78</Measurement:>
+    </Data :426>
+    <Data :427>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-40.03</Measurement:>
+    </Data :427>
+    <Data :428>
+        <Frequency:>5500</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-32.62</Measurement:>
+    </Data :428>
+    <Data :429>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.66</Measurement:>
+    </Data :429>
+    <Data :430>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-28.48</Measurement:>
+    </Data :430>
+    <Data :431>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-23.89</Measurement:>
+    </Data :431>
+    <Data :432>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-27.18</Measurement:>
+    </Data :432>
+    <Data :433>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-25.52</Measurement:>
+    </Data :433>
+    <Data :434>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-25.85</Measurement:>
+    </Data :434>
+    <Data :435>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-27.43</Measurement:>
+    </Data :435>
+    <Data :436>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-30.61</Measurement:>
+    </Data :436>
+    <Data :437>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-36.95</Measurement:>
+    </Data :437>
+    <Data :438>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-37.97</Measurement:>
+    </Data :438>
+    <Data :439>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-26.81</Measurement:>
+    </Data :439>
+    <Data :440>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-36.59</Measurement:>
+    </Data :440>
+    <Data :441>
+        <Frequency:>5500</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-32</Measurement:>
+    </Data :441>
+    <Data :442>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.02</Measurement:>
+    </Data :442>
+    <Data :443>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-26.15</Measurement:>
+    </Data :443>
+    <Data :444>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-25.53</Measurement:>
+    </Data :444>
+    <Data :445>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-26.16</Measurement:>
+    </Data :445>
+    <Data :446>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-26.03</Measurement:>
+    </Data :446>
+    <Data :447>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-28.82</Measurement:>
+    </Data :447>
+    <Data :448>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-34</Measurement:>
+    </Data :448>
+    <Data :449>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-34.39</Measurement:>
+    </Data :449>
+    <Data :450>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-36.73</Measurement:>
+    </Data :450>
+    <Data :451>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-35.05</Measurement:>
+    </Data :451>
+    <Data :452>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-27.12</Measurement:>
+    </Data :452>
+    <Data :453>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-30.93</Measurement:>
+    </Data :453>
+    <Data :454>
+        <Frequency:>5500</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-30.73</Measurement:>
+    </Data :454>
+    <Data :455>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.39</Measurement:>
+    </Data :455>
+    <Data :456>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-26.77</Measurement:>
+    </Data :456>
+    <Data :457>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-25.55</Measurement:>
+    </Data :457>
+    <Data :458>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-25.83</Measurement:>
+    </Data :458>
+    <Data :459>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-30.17</Measurement:>
+    </Data :459>
+    <Data :460>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-28.59</Measurement:>
+    </Data :460>
+    <Data :461>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-25.96</Measurement:>
+    </Data :461>
+    <Data :462>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-28.46</Measurement:>
+    </Data :462>
+    <Data :463>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.59</Measurement:>
+    </Data :463>
+    <Data :464>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-37.09</Measurement:>
+    </Data :464>
+    <Data :465>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-28.71</Measurement:>
+    </Data :465>
+    <Data :466>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.64</Measurement:>
+    </Data :466>
+    <Data :467>
+        <Frequency:>5500</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-30.39</Measurement:>
+    </Data :467>
+    <Data :468>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.02</Measurement:>
+    </Data :468>
+    <Data :469>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-27.01</Measurement:>
+    </Data :469>
+    <Data :470>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-26.27</Measurement:>
+    </Data :470>
+    <Data :471>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-27.24</Measurement:>
+    </Data :471>
+    <Data :472>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-30.92</Measurement:>
+    </Data :472>
+    <Data :473>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-25.01</Measurement:>
+    </Data :473>
+    <Data :474>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-24.58</Measurement:>
+    </Data :474>
+    <Data :475>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-28.13</Measurement:>
+    </Data :475>
+    <Data :476>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-31.74</Measurement:>
+    </Data :476>
+    <Data :477>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-32.02</Measurement:>
+    </Data :477>
+    <Data :478>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.88</Measurement:>
+    </Data :478>
+    <Data :479>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-28.38</Measurement:>
+    </Data :479>
+    <Data :480>
+        <Frequency:>5500</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-30.56</Measurement:>
+    </Data :480>
+    <Data :481>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-35.05</Measurement:>
+    </Data :481>
+    <Data :482>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-29.25</Measurement:>
+    </Data :482>
+    <Data :483>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-29</Measurement:>
+    </Data :483>
+    <Data :484>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-31.97</Measurement:>
+    </Data :484>
+    <Data :485>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-32.57</Measurement:>
+    </Data :485>
+    <Data :486>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-24.79</Measurement:>
+    </Data :486>
+    <Data :487>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-26.54</Measurement:>
+    </Data :487>
+    <Data :488>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-26.07</Measurement:>
+    </Data :488>
+    <Data :489>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-30.56</Measurement:>
+    </Data :489>
+    <Data :490>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.64</Measurement:>
+    </Data :490>
+    <Data :491>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.85</Measurement:>
+    </Data :491>
+    <Data :492>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.18</Measurement:>
+    </Data :492>
+    <Data :493>
+        <Frequency:>5500</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.07</Measurement:>
+    </Data :493>
+    <Data :494>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-38.12</Measurement:>
+    </Data :494>
+    <Data :495>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-36.69</Measurement:>
+    </Data :495>
+    <Data :496>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-33.01</Measurement:>
+    </Data :496>
+    <Data :497>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-36.56</Measurement:>
+    </Data :497>
+    <Data :498>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-32.09</Measurement:>
+    </Data :498>
+    <Data :499>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-28.37</Measurement:>
+    </Data :499>
+    <Data :500>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-28.26</Measurement:>
+    </Data :500>
+    <Data :501>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-29.02</Measurement:>
+    </Data :501>
+    <Data :502>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.37</Measurement:>
+    </Data :502>
+    <Data :503>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.66</Measurement:>
+    </Data :503>
+    <Data :504>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-28.05</Measurement:>
+    </Data :504>
+    <Data :505>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.34</Measurement:>
+    </Data :505>
+    <Data :506>
+        <Frequency:>5500</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-34.63</Measurement:>
+    </Data :506>
+    <Data :507>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-43.99</Measurement:>
+    </Data :507>
+    <Data :508>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-37.64</Measurement:>
+    </Data :508>
+    <Data :509>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-43.42</Measurement:>
+    </Data :509>
+    <Data :510>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-38.25</Measurement:>
+    </Data :510>
+    <Data :511>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-40.08</Measurement:>
+    </Data :511>
+    <Data :512>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-31.51</Measurement:>
+    </Data :512>
+    <Data :513>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-33.05</Measurement:>
+    </Data :513>
+    <Data :514>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.21</Measurement:>
+    </Data :514>
+    <Data :515>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-38.61</Measurement:>
+    </Data :515>
+    <Data :516>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-31.74</Measurement:>
+    </Data :516>
+    <Data :517>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-27.34</Measurement:>
+    </Data :517>
+    <Data :518>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.51</Measurement:>
+    </Data :518>
+    <Data :519>
+        <Frequency:>5500</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-38.12</Measurement:>
+    </Data :519>
+    <Data :520>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-68.71</Measurement:>
+    </Data :520>
+    <Data :521>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-35.87</Measurement:>
+    </Data :521>
+    <Data :522>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-44.55</Measurement:>
+    </Data :522>
+    <Data :523>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-34.39</Measurement:>
+    </Data :523>
+    <Data :524>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-36.98</Measurement:>
+    </Data :524>
+    <Data :525>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-35.09</Measurement:>
+    </Data :525>
+    <Data :526>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-40.97</Measurement:>
+    </Data :526>
+    <Data :527>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.08</Measurement:>
+    </Data :527>
+    <Data :528>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-50.63</Measurement:>
+    </Data :528>
+    <Data :529>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-33.58</Measurement:>
+    </Data :529>
+    <Data :530>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-31.01</Measurement:>
+    </Data :530>
+    <Data :531>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-36.06</Measurement:>
+    </Data :531>
+    <Data :532>
+        <Frequency:>5500</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-45.23</Measurement:>
+    </Data :532>
+    <Data :533>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-45.26</Measurement:>
+    </Data :533>
+    <Data :534>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-33.98</Measurement:>
+    </Data :534>
+    <Data :535>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-35.66</Measurement:>
+    </Data :535>
+    <Data :536>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-33.47</Measurement:>
+    </Data :536>
+    <Data :537>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-35.45</Measurement:>
+    </Data :537>
+    <Data :538>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-41.83</Measurement:>
+    </Data :538>
+    <Data :539>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-43.19</Measurement:>
+    </Data :539>
+    <Data :540>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.41</Measurement:>
+    </Data :540>
+    <Data :541>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-40.34</Measurement:>
+    </Data :541>
+    <Data :542>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-43.01</Measurement:>
+    </Data :542>
+    <Data :543>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-36.15</Measurement:>
+    </Data :543>
+    <Data :544>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-39.41</Measurement:>
+    </Data :544>
+    <Data :545>
+        <Frequency:>5500</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-53.68</Measurement:>
+    </Data :545>
+    <Data :546>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-38.77</Measurement:>
+    </Data :546>
+    <Data :547>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-33.18</Measurement:>
+    </Data :547>
+    <Data :548>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-38.02</Measurement:>
+    </Data :548>
+    <Data :549>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-36.52</Measurement:>
+    </Data :549>
+    <Data :550>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-36.46</Measurement:>
+    </Data :550>
+    <Data :551>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-41.94</Measurement:>
+    </Data :551>
+    <Data :552>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-40.95</Measurement:>
+    </Data :552>
+    <Data :553>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-43.03</Measurement:>
+    </Data :553>
+    <Data :554>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-42.85</Measurement:>
+    </Data :554>
+    <Data :555>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-46.02</Measurement:>
+    </Data :555>
+    <Data :556>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-48.89</Measurement:>
+    </Data :556>
+    <Data :557>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-42.39</Measurement:>
+    </Data :557>
+    <Data :558>
+        <Frequency:>5500</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-40.74</Measurement:>
+    </Data :558>
+    <Data :559>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-36.26</Measurement:>
+    </Data :559>
+    <Data :560>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-35.64</Measurement:>
+    </Data :560>
+    <Data :561>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-36.54</Measurement:>
+    </Data :561>
+    <Data :562>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-36.52</Measurement:>
+    </Data :562>
+    <Data :563>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-37.92</Measurement:>
+    </Data :563>
+    <Data :564>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-43.16</Measurement:>
+    </Data :564>
+    <Data :565>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-35.75</Measurement:>
+    </Data :565>
+    <Data :566>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-36.01</Measurement:>
+    </Data :566>
+    <Data :567>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-34.88</Measurement:>
+    </Data :567>
+    <Data :568>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-33.56</Measurement:>
+    </Data :568>
+    <Data :569>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-35.73</Measurement:>
+    </Data :569>
+    <Data :570>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-42.43</Measurement:>
+    </Data :570>
+    <Data :571>
+        <Frequency:>5500</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-35.83</Measurement:>
+    </Data :571>
+    <Data :572>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.35</Measurement:>
+    </Data :572>
+    <Data :573>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-39.18</Measurement:>
+    </Data :573>
+    <Data :574>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-32.64</Measurement:>
+    </Data :574>
+    <Data :575>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-34.23</Measurement:>
+    </Data :575>
+    <Data :576>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-31.53</Measurement:>
+    </Data :576>
+    <Data :577>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-36.88</Measurement:>
+    </Data :577>
+    <Data :578>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-34.68</Measurement:>
+    </Data :578>
+    <Data :579>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-34.91</Measurement:>
+    </Data :579>
+    <Data :580>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-30.31</Measurement:>
+    </Data :580>
+    <Data :581>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-32.01</Measurement:>
+    </Data :581>
+    <Data :582>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.05</Measurement:>
+    </Data :582>
+    <Data :583>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-42.01</Measurement:>
+    </Data :583>
+    <Data :584>
+        <Frequency:>5500</Frequency:>
+        <Phi:>300</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-32.92</Measurement:>
+    </Data :584>
+    <Data :585>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.56</Measurement:>
+    </Data :585>
+    <Data :586>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-38.18</Measurement:>
+    </Data :586>
+    <Data :587>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-32.04</Measurement:>
+    </Data :587>
+    <Data :588>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-30.97</Measurement:>
+    </Data :588>
+    <Data :589>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-30.35</Measurement:>
+    </Data :589>
+    <Data :590>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-29.27</Measurement:>
+    </Data :590>
+    <Data :591>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-31.52</Measurement:>
+    </Data :591>
+    <Data :592>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.41</Measurement:>
+    </Data :592>
+    <Data :593>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-30.13</Measurement:>
+    </Data :593>
+    <Data :594>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-27.08</Measurement:>
+    </Data :594>
+    <Data :595>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.17</Measurement:>
+    </Data :595>
+    <Data :596>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.01</Measurement:>
+    </Data :596>
+    <Data :597>
+        <Frequency:>5500</Frequency:>
+        <Phi:>315</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.02</Measurement:>
+    </Data :597>
+    <Data :598>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.82</Measurement:>
+    </Data :598>
+    <Data :599>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-33.64</Measurement:>
+    </Data :599>
+    <Data :600>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-29.62</Measurement:>
+    </Data :600>
+    <Data :601>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-29.04</Measurement:>
+    </Data :601>
+    <Data :602>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-26.99</Measurement:>
+    </Data :602>
+    <Data :603>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-27.28</Measurement:>
+    </Data :603>
+    <Data :604>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-28.44</Measurement:>
+    </Data :604>
+    <Data :605>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-38.59</Measurement:>
+    </Data :605>
+    <Data :606>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.38</Measurement:>
+    </Data :606>
+    <Data :607>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.23</Measurement:>
+    </Data :607>
+    <Data :608>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-26.45</Measurement:>
+    </Data :608>
+    <Data :609>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.52</Measurement:>
+    </Data :609>
+    <Data :610>
+        <Frequency:>5500</Frequency:>
+        <Phi:>330</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-30.53</Measurement:>
+    </Data :610>
+    <Data :611>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.49</Measurement:>
+    </Data :611>
+    <Data :612>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-37.74</Measurement:>
+    </Data :612>
+    <Data :613>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-28.57</Measurement:>
+    </Data :613>
+    <Data :614>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-26.01</Measurement:>
+    </Data :614>
+    <Data :615>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-26.16</Measurement:>
+    </Data :615>
+    <Data :616>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-26.44</Measurement:>
+    </Data :616>
+    <Data :617>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-32.52</Measurement:>
+    </Data :617>
+    <Data :618>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-35.62</Measurement:>
+    </Data :618>
+    <Data :619>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.11</Measurement:>
+    </Data :619>
+    <Data :620>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.16</Measurement:>
+    </Data :620>
+    <Data :621>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-28.25</Measurement:>
+    </Data :621>
+    <Data :622>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-33.01</Measurement:>
+    </Data :622>
+    <Data :623>
+        <Frequency:>5500</Frequency:>
+        <Phi:>345</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-30.79</Measurement:>
+    </Data :623>
+    <Data :624>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.64</Measurement:>
+    </Data :624>
+    <Data :625>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-30.08</Measurement:>
+    </Data :625>
+    <Data :626>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-31.12</Measurement:>
+    </Data :626>
+    <Data :627>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-28.58</Measurement:>
+    </Data :627>
+    <Data :628>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-26.08</Measurement:>
+    </Data :628>
+    <Data :629>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-31.02</Measurement:>
+    </Data :629>
+    <Data :630>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-47.29</Measurement:>
+    </Data :630>
+    <Data :631>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.05</Measurement:>
+    </Data :631>
+    <Data :632>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-30.45</Measurement:>
+    </Data :632>
+    <Data :633>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-31.53</Measurement:>
+    </Data :633>
+    <Data :634>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.57</Measurement:>
+    </Data :634>
+    <Data :635>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-30.11</Measurement:>
+    </Data :635>
+    <Data :636>
+        <Frequency:>5650</Frequency:>
+        <Phi:>0</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.98</Measurement:>
+    </Data :636>
+    <Data :637>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-38.17</Measurement:>
+    </Data :637>
+    <Data :638>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-37.38</Measurement:>
+    </Data :638>
+    <Data :639>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-33.02</Measurement:>
+    </Data :639>
+    <Data :640>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-30.75</Measurement:>
+    </Data :640>
+    <Data :641>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-29.08</Measurement:>
+    </Data :641>
+    <Data :642>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-35.74</Measurement:>
+    </Data :642>
+    <Data :643>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-42.44</Measurement:>
+    </Data :643>
+    <Data :644>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32.06</Measurement:>
+    </Data :644>
+    <Data :645>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-28.08</Measurement:>
+    </Data :645>
+    <Data :646>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.24</Measurement:>
+    </Data :646>
+    <Data :647>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.34</Measurement:>
+    </Data :647>
+    <Data :648>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-30.05</Measurement:>
+    </Data :648>
+    <Data :649>
+        <Frequency:>5650</Frequency:>
+        <Phi:>15</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-33.78</Measurement:>
+    </Data :649>
+    <Data :650>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-44.24</Measurement:>
+    </Data :650>
+    <Data :651>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-38.28</Measurement:>
+    </Data :651>
+    <Data :652>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-36.25</Measurement:>
+    </Data :652>
+    <Data :653>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-35.02</Measurement:>
+    </Data :653>
+    <Data :654>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-33.34</Measurement:>
+    </Data :654>
+    <Data :655>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-46.14</Measurement:>
+    </Data :655>
+    <Data :656>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-34.96</Measurement:>
+    </Data :656>
+    <Data :657>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-34.31</Measurement:>
+    </Data :657>
+    <Data :658>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-29.08</Measurement:>
+    </Data :658>
+    <Data :659>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-45.44</Measurement:>
+    </Data :659>
+    <Data :660>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-33.02</Measurement:>
+    </Data :660>
+    <Data :661>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-32.93</Measurement:>
+    </Data :661>
+    <Data :662>
+        <Frequency:>5650</Frequency:>
+        <Phi:>30</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-36.23</Measurement:>
+    </Data :662>
+    <Data :663>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-71.91</Measurement:>
+    </Data :663>
+    <Data :664>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-57.33</Measurement:>
+    </Data :664>
+    <Data :665>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-34.79</Measurement:>
+    </Data :665>
+    <Data :666>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-44.03</Measurement:>
+    </Data :666>
+    <Data :667>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-39.02</Measurement:>
+    </Data :667>
+    <Data :668>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-41.28</Measurement:>
+    </Data :668>
+    <Data :669>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-34.23</Measurement:>
+    </Data :669>
+    <Data :670>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-29.33</Measurement:>
+    </Data :670>
+    <Data :671>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-35.14</Measurement:>
+    </Data :671>
+    <Data :672>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-35.52</Measurement:>
+    </Data :672>
+    <Data :673>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-32.78</Measurement:>
+    </Data :673>
+    <Data :674>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-30.97</Measurement:>
+    </Data :674>
+    <Data :675>
+        <Frequency:>5650</Frequency:>
+        <Phi:>45</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-40.86</Measurement:>
+    </Data :675>
+    <Data :676>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-44.15</Measurement:>
+    </Data :676>
+    <Data :677>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-55.23</Measurement:>
+    </Data :677>
+    <Data :678>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-34.09</Measurement:>
+    </Data :678>
+    <Data :679>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-40.18</Measurement:>
+    </Data :679>
+    <Data :680>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-34.02</Measurement:>
+    </Data :680>
+    <Data :681>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-32.77</Measurement:>
+    </Data :681>
+    <Data :682>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-31.74</Measurement:>
+    </Data :682>
+    <Data :683>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.99</Measurement:>
+    </Data :683>
+    <Data :684>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-36.43</Measurement:>
+    </Data :684>
+    <Data :685>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-29.64</Measurement:>
+    </Data :685>
+    <Data :686>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-33.72</Measurement:>
+    </Data :686>
+    <Data :687>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-34.57</Measurement:>
+    </Data :687>
+    <Data :688>
+        <Frequency:>5650</Frequency:>
+        <Phi:>60</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-57.74</Measurement:>
+    </Data :688>
+    <Data :689>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-37.58</Measurement:>
+    </Data :689>
+    <Data :690>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-38.99</Measurement:>
+    </Data :690>
+    <Data :691>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-32.03</Measurement:>
+    </Data :691>
+    <Data :692>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-35.09</Measurement:>
+    </Data :692>
+    <Data :693>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-33.62</Measurement:>
+    </Data :693>
+    <Data :694>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-32.85</Measurement:>
+    </Data :694>
+    <Data :695>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-42.57</Measurement:>
+    </Data :695>
+    <Data :696>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.82</Measurement:>
+    </Data :696>
+    <Data :697>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.66</Measurement:>
+    </Data :697>
+    <Data :698>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-33.17</Measurement:>
+    </Data :698>
+    <Data :699>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.86</Measurement:>
+    </Data :699>
+    <Data :700>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-32.68</Measurement:>
+    </Data :700>
+    <Data :701>
+        <Frequency:>5650</Frequency:>
+        <Phi:>75</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-43.85</Measurement:>
+    </Data :701>
+    <Data :702>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.89</Measurement:>
+    </Data :702>
+    <Data :703>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-34.56</Measurement:>
+    </Data :703>
+    <Data :704>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-31.93</Measurement:>
+    </Data :704>
+    <Data :705>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-39.69</Measurement:>
+    </Data :705>
+    <Data :706>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-38.03</Measurement:>
+    </Data :706>
+    <Data :707>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-32.94</Measurement:>
+    </Data :707>
+    <Data :708>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-28.43</Measurement:>
+    </Data :708>
+    <Data :709>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-31.14</Measurement:>
+    </Data :709>
+    <Data :710>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-45.79</Measurement:>
+    </Data :710>
+    <Data :711>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-43.45</Measurement:>
+    </Data :711>
+    <Data :712>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.12</Measurement:>
+    </Data :712>
+    <Data :713>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-34.83</Measurement:>
+    </Data :713>
+    <Data :714>
+        <Frequency:>5650</Frequency:>
+        <Phi:>90</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-37.86</Measurement:>
+    </Data :714>
+    <Data :715>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.04</Measurement:>
+    </Data :715>
+    <Data :716>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-29.58</Measurement:>
+    </Data :716>
+    <Data :717>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-26.74</Measurement:>
+    </Data :717>
+    <Data :718>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-30.04</Measurement:>
+    </Data :718>
+    <Data :719>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-28.72</Measurement:>
+    </Data :719>
+    <Data :720>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-28.67</Measurement:>
+    </Data :720>
+    <Data :721>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-34.79</Measurement:>
+    </Data :721>
+    <Data :722>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-39.13</Measurement:>
+    </Data :722>
+    <Data :723>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-35.97</Measurement:>
+    </Data :723>
+    <Data :724>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-34.34</Measurement:>
+    </Data :724>
+    <Data :725>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-33.73</Measurement:>
+    </Data :725>
+    <Data :726>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-36.68</Measurement:>
+    </Data :726>
+    <Data :727>
+        <Frequency:>5650</Frequency:>
+        <Phi:>105</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-33.95</Measurement:>
+    </Data :727>
+    <Data :728>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.02</Measurement:>
+    </Data :728>
+    <Data :729>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-28.28</Measurement:>
+    </Data :729>
+    <Data :730>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-25.51</Measurement:>
+    </Data :730>
+    <Data :731>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-29.08</Measurement:>
+    </Data :731>
+    <Data :732>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-28.68</Measurement:>
+    </Data :732>
+    <Data :733>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-31.04</Measurement:>
+    </Data :733>
+    <Data :734>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-26.78</Measurement:>
+    </Data :734>
+    <Data :735>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-27.52</Measurement:>
+    </Data :735>
+    <Data :736>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-34.09</Measurement:>
+    </Data :736>
+    <Data :737>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-38.98</Measurement:>
+    </Data :737>
+    <Data :738>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-32.95</Measurement:>
+    </Data :738>
+    <Data :739>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-40.41</Measurement:>
+    </Data :739>
+    <Data :740>
+        <Frequency:>5650</Frequency:>
+        <Phi:>120</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-32.22</Measurement:>
+    </Data :740>
+    <Data :741>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-31.51</Measurement:>
+    </Data :741>
+    <Data :742>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-28.45</Measurement:>
+    </Data :742>
+    <Data :743>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-25.23</Measurement:>
+    </Data :743>
+    <Data :744>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-27.97</Measurement:>
+    </Data :744>
+    <Data :745>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-26.54</Measurement:>
+    </Data :745>
+    <Data :746>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-25.33</Measurement:>
+    </Data :746>
+    <Data :747>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-28.86</Measurement:>
+    </Data :747>
+    <Data :748>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.17</Measurement:>
+    </Data :748>
+    <Data :749>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-36.18</Measurement:>
+    </Data :749>
+    <Data :750>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-35.22</Measurement:>
+    </Data :750>
+    <Data :751>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-27.98</Measurement:>
+    </Data :751>
+    <Data :752>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-39.66</Measurement:>
+    </Data :752>
+    <Data :753>
+        <Frequency:>5650</Frequency:>
+        <Phi:>135</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.55</Measurement:>
+    </Data :753>
+    <Data :754>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.51</Measurement:>
+    </Data :754>
+    <Data :755>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-25.57</Measurement:>
+    </Data :755>
+    <Data :756>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-24.77</Measurement:>
+    </Data :756>
+    <Data :757>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-25.07</Measurement:>
+    </Data :757>
+    <Data :758>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-27.46</Measurement:>
+    </Data :758>
+    <Data :759>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-29.97</Measurement:>
+    </Data :759>
+    <Data :760>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-32.19</Measurement:>
+    </Data :760>
+    <Data :761>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-33.18</Measurement:>
+    </Data :761>
+    <Data :762>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-37.76</Measurement:>
+    </Data :762>
+    <Data :763>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-35.08</Measurement:>
+    </Data :763>
+    <Data :764>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-27.13</Measurement:>
+    </Data :764>
+    <Data :765>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-31.36</Measurement:>
+    </Data :765>
+    <Data :766>
+        <Frequency:>5650</Frequency:>
+        <Phi:>150</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.15</Measurement:>
+    </Data :766>
+    <Data :767>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-32.97</Measurement:>
+    </Data :767>
+    <Data :768>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-25.91</Measurement:>
+    </Data :768>
+    <Data :769>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-26.76</Measurement:>
+    </Data :769>
+    <Data :770>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-23.98</Measurement:>
+    </Data :770>
+    <Data :771>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-30.15</Measurement:>
+    </Data :771>
+    <Data :772>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-27.95</Measurement:>
+    </Data :772>
+    <Data :773>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-25.73</Measurement:>
+    </Data :773>
+    <Data :774>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-29.62</Measurement:>
+    </Data :774>
+    <Data :775>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-32.68</Measurement:>
+    </Data :775>
+    <Data :776>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-36.75</Measurement:>
+    </Data :776>
+    <Data :777>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-28.75</Measurement:>
+    </Data :777>
+    <Data :778>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.69</Measurement:>
+    </Data :778>
+    <Data :779>
+        <Frequency:>5650</Frequency:>
+        <Phi:>165</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-30.95</Measurement:>
+    </Data :779>
+    <Data :780>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.94</Measurement:>
+    </Data :780>
+    <Data :781>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-27.92</Measurement:>
+    </Data :781>
+    <Data :782>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-26.46</Measurement:>
+    </Data :782>
+    <Data :783>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-26.95</Measurement:>
+    </Data :783>
+    <Data :784>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-32.73</Measurement:>
+    </Data :784>
+    <Data :785>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-25.03</Measurement:>
+    </Data :785>
+    <Data :786>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-24.95</Measurement:>
+    </Data :786>
+    <Data :787>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-25.92</Measurement:>
+    </Data :787>
+    <Data :788>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-29.53</Measurement:>
+    </Data :788>
+    <Data :789>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-31.42</Measurement:>
+    </Data :789>
+    <Data :790>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.22</Measurement:>
+    </Data :790>
+    <Data :791>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-28.04</Measurement:>
+    </Data :791>
+    <Data :792>
+        <Frequency:>5650</Frequency:>
+        <Phi:>180</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-31.78</Measurement:>
+    </Data :792>
+    <Data :793>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-37.87</Measurement:>
+    </Data :793>
+    <Data :794>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-29.22</Measurement:>
+    </Data :794>
+    <Data :795>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-29.13</Measurement:>
+    </Data :795>
+    <Data :796>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-32.94</Measurement:>
+    </Data :796>
+    <Data :797>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-31.12</Measurement:>
+    </Data :797>
+    <Data :798>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-25.37</Measurement:>
+    </Data :798>
+    <Data :799>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-26.77</Measurement:>
+    </Data :799>
+    <Data :800>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-27.29</Measurement:>
+    </Data :800>
+    <Data :801>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-28.47</Measurement:>
+    </Data :801>
+    <Data :802>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-29.65</Measurement:>
+    </Data :802>
+    <Data :803>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.95</Measurement:>
+    </Data :803>
+    <Data :804>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.03</Measurement:>
+    </Data :804>
+    <Data :805>
+        <Frequency:>5650</Frequency:>
+        <Phi:>195</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-33.58</Measurement:>
+    </Data :805>
+    <Data :806>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-44.24</Measurement:>
+    </Data :806>
+    <Data :807>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-31.98</Measurement:>
+    </Data :807>
+    <Data :808>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-35.93</Measurement:>
+    </Data :808>
+    <Data :809>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-32.81</Measurement:>
+    </Data :809>
+    <Data :810>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-35.46</Measurement:>
+    </Data :810>
+    <Data :811>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-27.63</Measurement:>
+    </Data :811>
+    <Data :812>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-29.34</Measurement:>
+    </Data :812>
+    <Data :813>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-30.13</Measurement:>
+    </Data :813>
+    <Data :814>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-31.02</Measurement:>
+    </Data :814>
+    <Data :815>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.35</Measurement:>
+    </Data :815>
+    <Data :816>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-29.79</Measurement:>
+    </Data :816>
+    <Data :817>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-27.08</Measurement:>
+    </Data :817>
+    <Data :818>
+        <Frequency:>5650</Frequency:>
+        <Phi:>210</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-35.73</Measurement:>
+    </Data :818>
+    <Data :819>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-72.01</Measurement:>
+    </Data :819>
+    <Data :820>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-40.03</Measurement:>
+    </Data :820>
+    <Data :821>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-47.15</Measurement:>
+    </Data :821>
+    <Data :822>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-44</Measurement:>
+    </Data :822>
+    <Data :823>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-35.05</Measurement:>
+    </Data :823>
+    <Data :824>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-32.58</Measurement:>
+    </Data :824>
+    <Data :825>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-32.59</Measurement:>
+    </Data :825>
+    <Data :826>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-32</Measurement:>
+    </Data :826>
+    <Data :827>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-42.37</Measurement:>
+    </Data :827>
+    <Data :828>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-30.39</Measurement:>
+    </Data :828>
+    <Data :829>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-28.41</Measurement:>
+    </Data :829>
+    <Data :830>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-30.24</Measurement:>
+    </Data :830>
+    <Data :831>
+        <Frequency:>5650</Frequency:>
+        <Phi:>225</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-40.86</Measurement:>
+    </Data :831>
+    <Data :832>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-43.25</Measurement:>
+    </Data :832>
+    <Data :833>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-40.05</Measurement:>
+    </Data :833>
+    <Data :834>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-36.96</Measurement:>
+    </Data :834>
+    <Data :835>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-34.07</Measurement:>
+    </Data :835>
+    <Data :836>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-43.07</Measurement:>
+    </Data :836>
+    <Data :837>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-39.46</Measurement:>
+    </Data :837>
+    <Data :838>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-47.56</Measurement:>
+    </Data :838>
+    <Data :839>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-36.55</Measurement:>
+    </Data :839>
+    <Data :840>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-38.66</Measurement:>
+    </Data :840>
+    <Data :841>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-31.08</Measurement:>
+    </Data :841>
+    <Data :842>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-30.76</Measurement:>
+    </Data :842>
+    <Data :843>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-30.86</Measurement:>
+    </Data :843>
+    <Data :844>
+        <Frequency:>5650</Frequency:>
+        <Phi:>240</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-57.64</Measurement:>
+    </Data :844>
+    <Data :845>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-37.48</Measurement:>
+    </Data :845>
+    <Data :846>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-35.77</Measurement:>
+    </Data :846>
+    <Data :847>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-41.81</Measurement:>
+    </Data :847>
+    <Data :848>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-33.61</Measurement:>
+    </Data :848>
+    <Data :849>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-32.97</Measurement:>
+    </Data :849>
+    <Data :850>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-39.48</Measurement:>
+    </Data :850>
+    <Data :851>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-40.36</Measurement:>
+    </Data :851>
+    <Data :852>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-34.49</Measurement:>
+    </Data :852>
+    <Data :853>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-36.94</Measurement:>
+    </Data :853>
+    <Data :854>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-37.29</Measurement:>
+    </Data :854>
+    <Data :855>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-33.55</Measurement:>
+    </Data :855>
+    <Data :856>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-38.76</Measurement:>
+    </Data :856>
+    <Data :857>
+        <Frequency:>5650</Frequency:>
+        <Phi:>255</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-44.15</Measurement:>
+    </Data :857>
+    <Data :858>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-34.99</Measurement:>
+    </Data :858>
+    <Data :859>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-31.73</Measurement:>
+    </Data :859>
+    <Data :860>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-39.07</Measurement:>
+    </Data :860>
+    <Data :861>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-32.81</Measurement:>
+    </Data :861>
+    <Data :862>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-34.67</Measurement:>
+    </Data :862>
+    <Data :863>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-38.63</Measurement:>
+    </Data :863>
+    <Data :864>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-34.26</Measurement:>
+    </Data :864>
+    <Data :865>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>105</Theta:>
+        <Measurement:>-45.06</Measurement:>
+    </Data :865>
+    <Data :866>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>120</Theta:>
+        <Measurement:>-44.09</Measurement:>
+    </Data :866>
+    <Data :867>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>135</Theta:>
+        <Measurement:>-40.62</Measurement:>
+    </Data :867>
+    <Data :868>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>150</Theta:>
+        <Measurement:>-54.43</Measurement:>
+    </Data :868>
+    <Data :869>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>165</Theta:>
+        <Measurement:>-53.28</Measurement:>
+    </Data :869>
+    <Data :870>
+        <Frequency:>5650</Frequency:>
+        <Phi:>270</Phi:>
+        <Theta:>180</Theta:>
+        <Measurement:>-37.36</Measurement:>
+    </Data :870>
+    <Data :871>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>0</Theta:>
+        <Measurement:>-33.44</Measurement:>
+    </Data :871>
+    <Data :872>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>15</Theta:>
+        <Measurement:>-37.49</Measurement:>
+    </Data :872>
+    <Data :873>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>30</Theta:>
+        <Measurement:>-37.42</Measurement:>
+    </Data :873>
+    <Data :874>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>45</Theta:>
+        <Measurement:>-35.19</Measurement:>
+    </Data :874>
+    <Data :875>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>60</Theta:>
+        <Measurement:>-41.09</Measurement:>
+    </Data :875>
+    <Data :876>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>75</Theta:>
+        <Measurement:>-44.66</Measurement:>
+    </Data :876>
+    <Data :877>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>90</Theta:>
+        <Measurement:>-33.58</Measurement:>
+    </Data :877>
+    <Data :878>
+        <Frequency:>5650</Frequency:>
+        <Phi:>285</Phi:>
+        <Theta:>105</Theta:>
+        <
